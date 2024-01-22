@@ -27,7 +27,7 @@
 <script>
     Vue.createApp({
         data() { return {
-            posts: [{"id": 1, "date": "2024-01-22T20:05:28", "type": "service", "text": "Migrate from chat id"}, {"id": 2, "date": "2024-01-22T20:05:47", "text": "Test message, can you see me?"}]
+            posts: [{"id": 1, "date": "2024-01-22T20:05:28", "type": "service", "text": "Migrate from chat id"}, {"id": 2, "date": "2024-01-22T20:05:47", "text": "Test message, can you see me?"}, {"id": 3, "date": "2024-01-22T20:07:29", "files": [{"file_name": "sticker.webm", "mime_type": "video/webm", "date": "2022-02-05T09:50:26", "width": 430, "height": 512, "is_animated": false, "is_video": true, "emoji": "👀", "set_name": "LANI_Kurumi_chan_ENG", "media_type": "sticker", "original_name": "sticker.webm", "url": "media/3.webm", "size": 157462, "thumb": "media/3.webm_thumb.jpg"}]}, {"id": 4, "date": "2024-01-22T20:10:13", "text": "It seems to have worked, I now need to revamp the webpage."}]
         }}
     }).component("tg-blog", TgBlog.TgBlog).mount('#app')
 </script>
