@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Mikka's happenings 📒</title>
+    <link>https://cvyl.me/life</link>
+    <description>Random thoughts and happenings in my life.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://cvyl.me/gallery/mka.jpg</url>
+      <title>Mikka's happenings 📒</title>
+      <link>https://cvyl.me/life</link>
+    </image>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Jan 2024 21:07:49 +0000</lastBuildDate>
+    <item>
+      <title>Mikka's happenings 📒 #4</title>
+      <link>https://cvyl.me/life?post=4</link>
+      <description>&lt;p&gt;It seems to have worked, I now need to revamp the webpage.&lt;/p&gt;</description>
+      <guid isPermaLink="false">4</guid>
+    </item>
+    <item>
+      <title>Mikka's happenings 📒 #3</title>
+      <link>https://cvyl.me/life?post=3</link>
+      <guid isPermaLink="false">3</guid>
+    </item>
+    <item>
+      <title>Mikka's happenings 📒 #2</title>
+      <link>https://cvyl.me/life?post=2</link>
+      <description>&lt;p&gt;Test message, can you see me?&lt;/p&gt;</description>
+      <guid isPermaLink="false">2</guid>
+    </item>
+    <item>
+      <title>Mikka's happenings 📒 #1</title>
+      <link>https://cvyl.me/life?post=1</link>
+      <description>&lt;p&gt;Migrate from chat id&lt;/p&gt;</description>
+      <guid isPermaLink="false">1</guid>
+    </item>
+  </channel>
+</rss>
