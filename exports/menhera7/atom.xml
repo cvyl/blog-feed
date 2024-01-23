@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-01-23T08:02:45.462553+00:00</updated>
+  <updated>2024-01-23T10:02:37.983873+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>18</id>
+    <title>Mikka's happenings 📒 #18</title>
+    <updated>2024-01-23T08:26:27+00:00</updated>
+    <content>&lt;p&gt;荷兰语（母语）只有 2300 万人。那并不多。&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=18" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>17</id>
+    <title>Mikka's happenings 📒 #17</title>
+    <updated>2024-01-23T08:20:49+00:00</updated>
+    <content>&lt;p&gt;我一直在考虑学习中文。 但我不确定它是否比日语容易。&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=17" rel="alternate"/>
+  </entry>
   <entry>
     <id>16</id>
     <title>Mikka's happenings 📒 #16</title>
