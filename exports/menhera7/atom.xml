@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-01-22T22:02:50.583528+00:00</updated>
+  <updated>2024-01-23T00:06:36.491701+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>13</id>
+    <title>Mikka's happenings 📒 #13</title>
+    <updated>2024-01-22T22:34:25+00:00</updated>
+    <content>&lt;p&gt;And steve*, I want you to know this I am really proud of you. Please keep it up.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=13" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>12</id>
+    <title>Mikka's happenings 📒 #12</title>
+    <updated>2024-01-22T22:32:29+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=12" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>11</id>
+    <title>Mikka's happenings 📒 #11</title>
+    <updated>2024-01-22T22:31:57+00:00</updated>
+    <content>&lt;p&gt;Transgender Healthcare sure has a long way to go. I wish we had informed consent like they have overseas.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=11" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>10</id>
+    <title>Mikka's happenings 📒 #10</title>
+    <updated>2024-01-22T22:31:31+00:00</updated>
+    <content>&lt;p&gt;I’ve been waiting for almost a year 😭&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=10" rel="alternate"/>
+  </entry>
   <entry>
     <id>8</id>
     <title>Mikka's happenings 📒 #8</title>
