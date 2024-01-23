@@ -255,5 +255,24 @@
     "id": 26,
     "date": "2024-01-23T19:25:42",
     "text": "280 days clean today. I want to make it to 300."
+  },
+  {
+    "id": 27,
+    "date": "2024-01-23T21:03:55",
+    "text": "My friends are so nice to me."
+  },
+  {
+    "id": 28,
+    "date": "2024-01-23T21:04:21",
+    "text": "I just feel sorry for taking up space in their mind of worries.",
+    "reply": {
+      "id": 27,
+      "text": "My friends are so nice to me."
+    }
+  },
+  {
+    "id": 29,
+    "date": "2024-01-23T21:04:31",
+    "text": "But I want to find happiness."
   }
 ]
