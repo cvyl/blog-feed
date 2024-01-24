@@ -279,5 +279,91 @@
     "id": 30,
     "date": "2024-01-23T22:06:50",
     "text": "I think a positive change is to move away from toxicity and negative spaces. Like I did months ago with some image boards with a negative aura."
+  },
+  {
+    "id": 31,
+    "date": "2024-01-24T08:04:44",
+    "text": "Bloodtest done, now going to my pharmacy for an emergency"
+  },
+  {
+    "id": 32,
+    "date": "2024-01-24T08:19:42",
+    "text": "The pharmacy didn’t receive anything from my psychiatrist. Called my clinic and asked if they could label it as an emergency. I’m currently on half my dosis and don’t have anything for the coming days."
+  },
+  {
+    "id": 33,
+    "date": "2024-01-24T08:44:46",
+    "text": "Psychiatrist called and he’ll prescribe me my medications again."
+  },
+  {
+    "id": 34,
+    "date": "2024-01-24T08:44:49",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T12:41:49",
+        "width": 394,
+        "height": 512,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "👍",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/34.webm",
+        "size": 199856,
+        "thumb": "media/34.webm_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "date": "2024-01-24T08:53:33",
+    "text": "Since I have done my bloodtest, it’s time, once again.",
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-01-24T08:53:32",
+        "media_type": "photo",
+        "original_name": "photo_2024-01-24_08-53-32.jpg",
+        "url": "media/35.jpg",
+        "size": 211706,
+        "thumb": "media/35.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "date": "2024-01-24T09:03:01",
+    "text": "I did it 😭 aaargh I hate needles"
+  },
+  {
+    "id": 37,
+    "date": "2024-01-24T09:03:38",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:49:03",
+        "width": 512,
+        "height": 436,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "✊",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/37.webm",
+        "size": 138069,
+        "thumb": "media/37.webm_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "date": "2024-01-24T09:23:23",
+    "text": "I just realised I haven’t eaten breakfast yet."
   }
 ]
