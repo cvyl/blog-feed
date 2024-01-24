@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-01-24T22:02:47.669675+00:00</updated>
+  <updated>2024-01-24T23:18:46.065576+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>43</id>
+    <title>Mikka's happenings 📒 #43</title>
+    <updated>2024-01-24T23:17:39+00:00</updated>
+    <content>&lt;p&gt;Wouldn’t be surprised if my blood test results came back with a 0% change in hormones in my blood.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=43" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>42</id>
+    <title>Mikka's happenings 📒 #42</title>
+    <updated>2024-01-24T23:16:45+00:00</updated>
+    <content>&lt;p&gt;Yes I experience so so called “effects” when it comes to certain body parts. But my hair growth hasn’t decreased one bit and I think it’s just better to depart.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=42" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>41</id>
+    <title>Mikka's happenings 📒 #41</title>
+    <updated>2024-01-24T23:16:07+00:00</updated>
+    <content>&lt;p&gt;The 5mg/week dosage doesn’t really do anything and reality is starting to hit. &lt;/p&gt;
+&lt;p&gt;I have tried to write suicide notes before but I never end up going. But am I really that selfish?&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=41" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>40</id>
+    <title>Mikka's happenings 📒 #40</title>
+    <updated>2024-01-24T23:12:48+00:00</updated>
+    <content>&lt;p&gt;Reality is crumbling&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=40" rel="alternate"/>
+  </entry>
   <entry>
     <id>39</id>
     <title>Mikka's happenings 📒 #39</title>
