@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-01-23T22:02:17.108086+00:00</updated>
+  <updated>2024-01-24T00:06:45.968123+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>30</id>
+    <title>Mikka's happenings 📒 #30</title>
+    <updated>2024-01-23T22:06:50+00:00</updated>
+    <content>&lt;p&gt;I think a positive change is to move away from toxicity and negative spaces. Like I did months ago with some image boards with a negative aura.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=30" rel="alternate"/>
+  </entry>
   <entry>
     <id>29</id>
     <title>Mikka's happenings 📒 #29</title>
