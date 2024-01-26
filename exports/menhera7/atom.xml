@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-01-26T18:02:38.307799+00:00</updated>
+  <updated>2024-01-26T20:02:34.808821+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>57</id>
+    <title>Mikka's happenings 📒 #57</title>
+    <updated>2024-01-26T19:04:22+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=57" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>56</id>
+    <title>Mikka's happenings 📒 #56</title>
+    <updated>2024-01-26T19:03:50+00:00</updated>
+    <content>&lt;p&gt;It's said it is at cisgender woman levels.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=56" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>55</id>
+    <title>Mikka's happenings 📒 #55</title>
+    <updated>2024-01-26T19:03:26+00:00</updated>
+    <content>&lt;p&gt;My blood results came back. My levels are 391 pmol/L&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=55" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>54</id>
+    <title>Mikka's happenings 📒 #54</title>
+    <updated>2024-01-26T19:02:21+00:00</updated>
+    <content>&lt;p&gt;New chat photo&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=54" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>53</id>
+    <title>Mikka's happenings 📒 #53</title>
+    <updated>2024-01-26T19:02:20+00:00</updated>
+    <content>&lt;p&gt;New chat title&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=53" rel="alternate"/>
+  </entry>
   <entry>
     <id>52</id>
     <title>Mikka's happenings 📒 #52</title>
