@@ -603,5 +603,32 @@
     "id": 63,
     "date": "2024-01-28T17:18:00",
     "text": "I cleaned my room. It frees up your mind."
+  },
+  {
+    "id": 64,
+    "date": "2024-01-28T18:43:38",
+    "text": "Going to a hairdresser with my mom soon. I hope to get a nice haircut or such as a haircut makes all the difference.\nLast time (when I was growing out my hair) the barber messed up and gave me a very masculine cut. I cried my way home and at home itself. This was almost a year ago, I have been too afraid to get a haircut ever since then as it felt like my hair got assaulted.\nWill send an email to my clinic too. I keep forgetting to do so."
+  },
+  {
+    "id": 65,
+    "date": "2024-01-28T18:44:12",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T12:42:07",
+        "width": 480,
+        "height": 512,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "❓",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/65.webm",
+        "size": 93051,
+        "thumb": "media/65.webm_thumb.jpg"
+      }
+    ]
   }
 ]
