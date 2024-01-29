@@ -635,5 +635,32 @@
     "id": 66,
     "date": "2024-01-28T21:44:02",
     "text": "I hope to work on my school and some blog articles the coming days."
+  },
+  {
+    "id": 67,
+    "date": "2024-01-28T22:48:10",
+    "text": "I managed to take care of myself today, I’m happy with that. I’ll be heading to bed now. Goodnight kind world."
+  },
+  {
+    "id": 68,
+    "date": "2024-01-28T22:49:21",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T12:41:47",
+        "width": 512,
+        "height": 490,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "🎵",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/68.webm",
+        "size": 257411,
+        "thumb": "media/68.webm_thumb.jpg"
+      }
+    ]
   }
 ]
