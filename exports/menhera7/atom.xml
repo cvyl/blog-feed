@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-01-30T20:02:34.598434+00:00</updated>
+  <updated>2024-01-30T22:02:26.136648+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>71</id>
+    <title>Mikka's happenings 📒 #71</title>
+    <updated>2024-01-30T20:20:19+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=71" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>70</id>
+    <title>Mikka's happenings 📒 #70</title>
+    <updated>2024-01-30T20:20:14+00:00</updated>
+    <content>&lt;p&gt;Now it’s time to shower and off to bed&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=70" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>69</id>
+    <title>Mikka's happenings 📒 #69</title>
+    <updated>2024-01-30T20:19:10+00:00</updated>
+    <content>&lt;p&gt;Once again, I really hate needles. But it’s life saving…&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=69" rel="alternate"/>
+  </entry>
   <entry>
     <id>68</id>
     <title>Mikka's happenings 📒 #68</title>
