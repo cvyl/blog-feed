@@ -706,5 +706,42 @@
         "thumb": "media/71.webp_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 72,
+    "date": "2024-02-02T20:51:34",
+    "text": "I have been feeling very depressed lately. It's becoming a problem.\nDeparting without anyone's consent might be the best option. I need to think of a good date when everyone is gone that I can go depart peacefully. I've considered a lot of options; drugs, auto-mutilation, or departing via train. It's all so exhausting."
+  },
+  {
+    "id": 73,
+    "date": "2024-02-02T20:51:40",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2021-04-02T07:20:05",
+        "width": 512,
+        "height": 512,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😩",
+        "set_name": "ShimejiSim",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/73.webp",
+        "size": 21880,
+        "thumb": "media/73.webp_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "date": "2024-02-02T20:52:28",
+    "text": "I know I will disappoint everyone around me for this. But I suppose I'll be selfish this time.\nOnce I am ready, I will say a final goodnight."
+  },
+  {
+    "id": 75,
+    "date": "2024-02-02T20:54:16",
+    "text": "As I've stated before, I do not want to reach my birthday.\nIt's of no use, nothing to celebrate other than my misery.\nI hope to donate my savings and checking balances toward health organisations that might be able to make a change."
   }
 ]
