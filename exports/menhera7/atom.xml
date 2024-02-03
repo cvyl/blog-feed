@@ -2,11 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-02-03T16:02:35.491168+00:00</updated>
+  <updated>2024-02-03T18:02:55.371510+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>81</id>
+    <title>Mikka's happenings 📒 #81</title>
+    <updated>2024-02-03T17:19:49+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=81" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>80</id>
+    <title>Mikka's happenings 📒 #80</title>
+    <updated>2024-02-03T17:16:10+00:00</updated>
+    <content>&lt;p&gt;Thank you for to all my friends for keeping up with me.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=80" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>79</id>
+    <title>Mikka's happenings 📒 #79</title>
+    <updated>2024-02-03T17:15:48+00:00</updated>
+    <content>&lt;p&gt;I wish to write some more things on my blog in the coming weeks. I have some plans to talk about new things.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=79" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>78</id>
+    <title>Mikka's happenings 📒 #78</title>
+    <updated>2024-02-03T17:13:58+00:00</updated>
+    <content>&lt;p&gt;I wish to help others, make them feel safe, like a motherly figure. It's in my nature to help others.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=78" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>77</id>
+    <title>Mikka's happenings 📒 #77</title>
+    <updated>2024-02-03T17:13:23+00:00</updated>
+    <content>&lt;p&gt;I will try to live for others. I have friends who don't want me gone yet.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=77" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>76</id>
+    <title>Mikka's happenings 📒 #76</title>
+    <updated>2024-02-03T17:11:39+00:00</updated>
+    <content>&lt;p&gt;I apologize for my frequent ramblings. I do not want to come over like this to others. &lt;/p&gt;
+&lt;p&gt;I have been making plan B's for continuing to live. It's not my top priority as plan A defeats plan B.
+I love all my friends.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=76" rel="alternate"/>
+  </entry>
   <entry>
     <id>75</id>
     <title>Mikka's happenings 📒 #75</title>
