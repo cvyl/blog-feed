@@ -805,5 +805,32 @@
     "id": 85,
     "date": "2024-02-08T21:40:33",
     "text": "I’m going to give life another chance."
+  },
+  {
+    "id": 86,
+    "date": "2024-02-10T18:49:05",
+    "text": "Bought a lot of stuff from beauty products to brushes and such. Also working on my education once more."
+  },
+  {
+    "id": 87,
+    "date": "2024-02-10T18:49:19",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2021-04-02T07:14:07",
+        "width": 512,
+        "height": 512,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "🤩",
+        "set_name": "ShimejiSim",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/87.webp",
+        "size": 31534,
+        "thumb": "media/87.webp_thumb.jpg"
+      }
+    ]
   }
 ]
