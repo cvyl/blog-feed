@@ -917,5 +917,32 @@
         "thumb": "media/95.webm_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 96,
+    "date": "2024-02-18T15:32:22",
+    "text": "I bought a new laptop, which will be arriving soon. It's for my studies regarding software development. It cost me around 1,5K EUR."
+  },
+  {
+    "id": 97,
+    "date": "2024-02-18T15:32:46",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T12:41:47",
+        "width": 512,
+        "height": 490,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "🎵",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/97.webm",
+        "size": 257411,
+        "thumb": "media/97.webm_thumb.jpg"
+      }
+    ]
   }
 ]
