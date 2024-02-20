@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-02-20T08:02:28.243658+00:00</updated>
+  <updated>2024-02-20T09:41:59.431476+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>102</id>
+    <title>Mikka's happenings 📒 #102</title>
+    <updated>2024-02-20T09:40:29+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=102" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>101</id>
+    <title>Mikka's happenings 📒 #101</title>
+    <updated>2024-02-20T09:40:01+00:00</updated>
+    <content>&lt;p&gt;Waited about 10 months for this eeeee&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=101" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>100</id>
+    <title>Mikka's happenings 📒 #100</title>
+    <updated>2024-02-20T09:39:43+00:00</updated>
+    <content>&lt;p&gt;I can already prepare some papers and other things I have access to, to make the processor easier for me and them.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=100" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>99</id>
+    <title>Mikka's happenings 📒 #99</title>
+    <updated>2024-02-20T09:39:10+00:00</updated>
+    <content>&lt;p&gt;Gender polyclinic called today, I have an appointment for first intake March 4th. It kind of sucks because if my school plans work out I’ll be following lessons March 3rd but still, I am excited. I have to get up really early because it’s far away from where I live.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=99" rel="alternate"/>
+  </entry>
   <entry>
     <id>98</id>
     <title>Mikka's happenings 📒 #98</title>
