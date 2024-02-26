@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-02-26T12:03:29.909150+00:00</updated>
+  <updated>2024-02-26T14:03:00.113461+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>110</id>
+    <title>Mikka's happenings 📒 #110</title>
+    <updated>2024-02-26T13:17:20+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=110" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>109</id>
+    <title>Mikka's happenings 📒 #109</title>
+    <updated>2024-02-26T13:17:16+00:00</updated>
+    <content>&lt;p&gt;This way of thinking was the default way I thought because I grew up like this. I don’t know any better. And this still haunts me to this day&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=109" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>108</id>
+    <title>Mikka's happenings 📒 #108</title>
+    <updated>2024-02-26T13:16:49+00:00</updated>
+    <content>&lt;p&gt;I’m one of those failures unfortunately.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=108" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>107</id>
+    <title>Mikka's happenings 📒 #107</title>
+    <updated>2024-02-26T13:16:33+00:00</updated>
+    <content>&lt;p&gt;Talked with personal help assistant about how I grew up in an environment that was very toxic now that I think about it. If you didn’t fit in you would be excommunicated by both the parents and the children. You had to get 100/100’s at elementary school else you’d be a failure and you’d never have a future.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=107" rel="alternate"/>
+  </entry>
   <entry>
     <id>106</id>
     <title>Mikka's happenings 📒 #106</title>

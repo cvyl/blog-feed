@@ -1034,5 +1034,42 @@
     "id": 106,
     "date": "2024-02-26T11:19:50",
     "text": "My package from UPS arrived at the exact time I came home. What a timing!"
+  },
+  {
+    "id": 107,
+    "date": "2024-02-26T13:16:33",
+    "text": "Talked with personal help assistant about how I grew up in an environment that was very toxic now that I think about it. If you didn’t fit in you would be excommunicated by both the parents and the children. You had to get 100/100’s at elementary school else you’d be a failure and you’d never have a future."
+  },
+  {
+    "id": 108,
+    "date": "2024-02-26T13:16:49",
+    "text": "I’m one of those failures unfortunately."
+  },
+  {
+    "id": 109,
+    "date": "2024-02-26T13:17:16",
+    "text": "This way of thinking was the default way I thought because I grew up like this. I don’t know any better. And this still haunts me to this day"
+  },
+  {
+    "id": 110,
+    "date": "2024-02-26T13:17:20",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2021-04-02T07:20:05",
+        "width": 512,
+        "height": 512,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😩",
+        "set_name": "ShimejiSim",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/110.webp",
+        "size": 21880,
+        "thumb": "media/110.webp_thumb.jpg"
+      }
+    ]
   }
 ]
