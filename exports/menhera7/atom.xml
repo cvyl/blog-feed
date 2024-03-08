@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-03-08T10:03:13.248076+00:00</updated>
+  <updated>2024-03-08T12:03:09.722879+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>124</id>
+    <title>Mikka's happenings 📒 #124</title>
+    <updated>2024-03-08T11:30:37+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=124" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>123</id>
+    <title>Mikka's happenings 📒 #123</title>
+    <updated>2024-03-08T11:30:01+00:00</updated>
+    <content>&lt;p&gt;I apologise for readers&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=123" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>122</id>
+    <title>Mikka's happenings 📒 #122</title>
+    <updated>2024-03-08T11:29:52+00:00</updated>
+    <content>&lt;p&gt;I’ll also update this blog feed to work properly again as it is now broken due to a recent update (theming / colours are messed up).&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=122" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>121</id>
+    <title>Mikka's happenings 📒 #121</title>
+    <updated>2024-03-08T11:29:27+00:00</updated>
+    <content>&lt;p&gt;Because this course is so easy for me, I might be able to do it in two years instead of four, my mentor said.&lt;/p&gt;
+&lt;p&gt;I hope I can. It’s really easy for me indeed.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=121" rel="alternate"/>
+  </entry>
   <entry>
     <id>120</id>
     <title>Mikka's happenings 📒 #120</title>
