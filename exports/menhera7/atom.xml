@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-04-18T08:03:14.265589+00:00</updated>
+  <updated>2024-04-18T10:03:12.042802+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>135</id>
+    <title>Mikka's happenings 📒 #135</title>
+    <updated>2024-04-18T08:29:46+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=135" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>134</id>
+    <title>Mikka's happenings 📒 #134</title>
+    <updated>2024-04-18T08:29:41+00:00</updated>
+    <content>&lt;p&gt;Fixed some CSS issues too so it should all look pretty again and I can use it again :3&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=134" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>133</id>
+    <title>Mikka's happenings 📒 #133</title>
+    <updated>2024-04-18T08:29:21+00:00</updated>
+    <content>&lt;p&gt;I made the site work again!!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=133" rel="alternate"/>
+  </entry>
   <entry>
     <id>132</id>
     <title>Mikka's happenings 📒 #132</title>

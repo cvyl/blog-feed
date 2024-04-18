@@ -1232,5 +1232,37 @@
     "id": 132,
     "date": "2024-03-29T12:06:00",
     "text": "I’ll make this site’s CSS work again, I apologise it’s all broken"
+  },
+  {
+    "id": 133,
+    "date": "2024-04-18T08:29:21",
+    "text": "I made the site work again!!!"
+  },
+  {
+    "id": 134,
+    "date": "2024-04-18T08:29:41",
+    "text": "Fixed some CSS issues too so it should all look pretty again and I can use it again :3"
+  },
+  {
+    "id": 135,
+    "date": "2024-04-18T08:29:46",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:48:50",
+        "width": 512,
+        "height": 428,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "😄",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/135.webm",
+        "size": 199487,
+        "thumb": "media/135.webm_thumb.jpg"
+      }
+    ]
   }
 ]
