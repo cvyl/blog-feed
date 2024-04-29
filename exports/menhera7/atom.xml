@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-04-29T20:03:00.360195+00:00</updated>
+  <updated>2024-04-29T22:03:01.492736+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>157</id>
+    <title>Mikka's happenings 📒 #157</title>
+    <updated>2024-04-29T21:18:08+00:00</updated>
+    <content>&lt;p&gt;I hope to talk more here as well. It's nice to look back at my older messages and seeing how my life has changed so far.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=157" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>156</id>
+    <title>Mikka's happenings 📒 #156</title>
+    <updated>2024-04-29T21:16:08+00:00</updated>
+    <content>&lt;p&gt;I also totally forgot to show this!! Currently at 377 days and hope to get to 400.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=156" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>155</id>
+    <title>Mikka's happenings 📒 #155</title>
+    <updated>2024-04-29T21:14:55+00:00</updated>
+    <content>&lt;p&gt;I made some new online friends with a fate similar to mine which is nice!! I've also started picking up my older hobbies again.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=155" rel="alternate"/>
+  </entry>
   <entry>
     <id>154</id>
     <title>Mikka's happenings 📒 #154</title>
