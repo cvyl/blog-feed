@@ -1422,5 +1422,42 @@
     "id": 157,
     "date": "2024-04-29T21:18:08",
     "text": "I hope to talk more here as well. It's nice to look back at my older messages and seeing how my life has changed so far."
+  },
+  {
+    "id": 158,
+    "date": "2024-04-30T12:42:45",
+    "text": "It’s a sunny day outside so I will be running"
+  },
+  {
+    "id": 159,
+    "date": "2024-04-30T12:43:26",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T12:41:47",
+        "width": 512,
+        "height": 490,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "🎵",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/159.webm",
+        "size": 257411,
+        "thumb": "media/159.webm_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "date": "2024-04-30T13:03:22",
+    "text": "I forgot how exhausting running is."
+  },
+  {
+    "id": 161,
+    "date": "2024-04-30T13:52:54",
+    "text": "Finished running, didn’t run too much, about 7KM maybe? But I am trying to build up my stamina to eventually run over 10KM.."
   }
 ]

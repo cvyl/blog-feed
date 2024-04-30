@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-04-30T12:03:10.296192+00:00</updated>
+  <updated>2024-04-30T14:03:20.951654+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>161</id>
+    <title>Mikka's happenings 📒 #161</title>
+    <updated>2024-04-30T13:52:54+00:00</updated>
+    <content>&lt;p&gt;Finished running, didn’t run too much, about 7KM maybe? But I am trying to build up my stamina to eventually run over 10KM..&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=161" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>160</id>
+    <title>Mikka's happenings 📒 #160</title>
+    <updated>2024-04-30T13:03:22+00:00</updated>
+    <content>&lt;p&gt;I forgot how exhausting running is.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=160" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>159</id>
+    <title>Mikka's happenings 📒 #159</title>
+    <updated>2024-04-30T12:43:26+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=159" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>158</id>
+    <title>Mikka's happenings 📒 #158</title>
+    <updated>2024-04-30T12:42:45+00:00</updated>
+    <content>&lt;p&gt;It’s a sunny day outside so I will be running&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=158" rel="alternate"/>
+  </entry>
   <entry>
     <id>157</id>
     <title>Mikka's happenings 📒 #157</title>
