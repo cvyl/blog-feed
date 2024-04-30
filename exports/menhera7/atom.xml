@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-04-30T16:02:59.414662+00:00</updated>
+  <updated>2024-04-30T18:03:20.103315+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>162</id>
+    <title>Mikka's happenings 📒 #162</title>
+    <updated>2024-04-30T17:54:51+00:00</updated>
+    <content>&lt;p&gt;Got a letter in the mail dr the hospital where they got my name wrong and it was handwritten on the envelope from the Gender Team department of the hospital. Really ironic considering they have my medical documents &amp;gt;_&amp;gt;&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=162" rel="alternate"/>
+  </entry>
   <entry>
     <id>161</id>
     <title>Mikka's happenings 📒 #161</title>
