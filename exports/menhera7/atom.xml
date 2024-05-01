@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-05-01T14:03:07.132466+00:00</updated>
+  <updated>2024-05-01T16:03:19.929002+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>167</id>
+    <title>Mikka's happenings 📒 #167</title>
+    <updated>2024-05-01T15:14:20+00:00</updated>
+    <content>&lt;p&gt;中文是美丽的语言&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=167" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>166</id>
+    <title>Mikka's happenings 📒 #166</title>
+    <updated>2024-05-01T15:11:53+00:00</updated>
+    <content>&lt;p&gt;我想继续学习普通话&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=166" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>165</id>
+    <title>Mikka's happenings 📒 #165</title>
+    <updated>2024-05-01T15:04:35+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=165" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>164</id>
+    <title>Mikka's happenings 📒 #164</title>
+    <updated>2024-05-01T15:04:23+00:00</updated>
+    <content>&lt;p&gt;I could really use a shower right now&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=164" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>163</id>
+    <title>Mikka's happenings 📒 #163</title>
+    <updated>2024-05-01T15:04:14+00:00</updated>
+    <content>&lt;p&gt;I’ve been working on the yard cleaning 50+ year old walls with pressure washing. Spent a good 4-5 hours on it, now fully covered in dirt and mud but it’s looking very pretty.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=163" rel="alternate"/>
+  </entry>
   <entry>
     <id>162</id>
     <title>Mikka's happenings 📒 #162</title>
