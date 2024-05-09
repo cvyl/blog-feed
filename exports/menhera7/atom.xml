@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-05-09T12:03:37.933005+00:00</updated>
+  <updated>2024-05-09T14:03:11.446464+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>179</id>
+    <title>Mikka's happenings 📒 #179</title>
+    <updated>2024-05-09T13:05:34+00:00</updated>
+    <content>&lt;p&gt;I used to know a kid back in highschool, he got from a rough place and managed to leave highschool early to pursue his career in music and beat making. Years ago when I last saw him he decided to chat with me about life and such and showed that he’ll be travelling outside the country to work for a label or something and was proud of his gym progress getting jacked. &lt;/p&gt;
+&lt;p&gt;I sometimes wonder what happened to him, we never exchanged phone numbers nor were we really considered friends. I hope life is treating him well now and that he made his dreams come true.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=179" rel="alternate"/>
+  </entry>
   <entry>
     <id>178</id>
     <title>Mikka's happenings 📒 #178</title>
