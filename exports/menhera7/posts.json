@@ -1585,5 +1585,15 @@
         "thumb": "media/176.webm_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 177,
+    "date": "2024-05-09T08:29:38",
+    "text": "A lot of people in the tech scene seem to be misinformed about “new” technology like cryptography and the impact it could have on the internet as whole once it’s fully ready to be used by the wider market. Web3 mostly gets a bad reputation because people think of the word “crypto” as “cryptocurrency” even though cryptocurrency does not play a role in this at all."
+  },
+  {
+    "id": 178,
+    "date": "2024-05-09T08:30:21",
+    "text": "I didn’t get into too much detail in my article about IPFS about how smart contracts works and such, but I hope to make a revised version."
   }
 ]

@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-05-09T08:03:06.491770+00:00</updated>
+  <updated>2024-05-09T10:03:35.715578+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>178</id>
+    <title>Mikka's happenings 📒 #178</title>
+    <updated>2024-05-09T08:30:21+00:00</updated>
+    <content>&lt;p&gt;I didn’t get into too much detail in my article about IPFS about how smart contracts works and such, but I hope to make a revised version.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=178" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>177</id>
+    <title>Mikka's happenings 📒 #177</title>
+    <updated>2024-05-09T08:29:38+00:00</updated>
+    <content>&lt;p&gt;A lot of people in the tech scene seem to be misinformed about “new” technology like cryptography and the impact it could have on the internet as whole once it’s fully ready to be used by the wider market. Web3 mostly gets a bad reputation because people think of the word “crypto” as “cryptocurrency” even though cryptocurrency does not play a role in this at all.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=177" rel="alternate"/>
+  </entry>
   <entry>
     <id>176</id>
     <title>Mikka's happenings 📒 #176</title>
