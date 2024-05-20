@@ -1647,5 +1647,32 @@
     "id": 185,
     "date": "2024-05-18T21:00:29",
     "text": "Dysphoria and dysmorphia hitting hard lately."
+  },
+  {
+    "id": 186,
+    "date": "2024-05-20T08:54:23",
+    "text": "It’s been going better. Still haven’t picked up my Mandarin Chinese studies again which is unfortunate, but I have been working on my German as that’s significantly easier for me as my native tongue shares over 70% of the vocabulary."
+  },
+  {
+    "id": 187,
+    "date": "2024-05-20T08:54:33",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:48:58",
+        "width": 512,
+        "height": 434,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "🙌",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/187.webm",
+        "size": 165699,
+        "thumb": "media/187.webm_thumb.jpg"
+      }
+    ]
   }
 ]
