@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-05-27T20:02:57.688497+00:00</updated>
+  <updated>2024-05-27T22:02:59.875791+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>192</id>
+    <title>Mikka's happenings 📒 #192</title>
+    <updated>2024-05-27T20:51:25+00:00</updated>
+    <content>&lt;p&gt;Having lots of cramps at the moment. Mum made me a hot water bottle to help&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=192" rel="alternate"/>
+  </entry>
   <entry>
     <id>191</id>
     <title>Mikka's happenings 📒 #191</title>
