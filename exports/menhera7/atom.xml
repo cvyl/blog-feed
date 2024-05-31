@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-05-31T10:03:12.154201+00:00</updated>
+  <updated>2024-05-31T12:03:49.929611+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>195</id>
+    <title>Mikka's happenings 📒 #195</title>
+    <updated>2024-05-31T10:20:40+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=195" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>194</id>
+    <title>Mikka's happenings 📒 #194</title>
+    <updated>2024-05-31T10:20:24+00:00</updated>
+    <content>&lt;p&gt;It would make the site more organised.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=194" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>193</id>
+    <title>Mikka's happenings 📒 #193</title>
+    <updated>2024-05-31T10:20:17+00:00</updated>
+    <content>&lt;p&gt;I think for my continuation in my Chinese studies, I will make a new subdomain to my website and launch a Mandarin only blog/feed there.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=193" rel="alternate"/>
+  </entry>
   <entry>
     <id>192</id>
     <title>Mikka's happenings 📒 #192</title>

@@ -1699,5 +1699,37 @@
     "id": 192,
     "date": "2024-05-27T20:51:25",
     "text": "Having lots of cramps at the moment. Mum made me a hot water bottle to help"
+  },
+  {
+    "id": 193,
+    "date": "2024-05-31T10:20:17",
+    "text": "I think for my continuation in my Chinese studies, I will make a new subdomain to my website and launch a Mandarin only blog/feed there."
+  },
+  {
+    "id": 194,
+    "date": "2024-05-31T10:20:24",
+    "text": "It would make the site more organised."
+  },
+  {
+    "id": 195,
+    "date": "2024-05-31T10:20:40",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T12:42:07",
+        "width": 480,
+        "height": 512,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "❓",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/195.webm",
+        "size": 93051,
+        "thumb": "media/195.webm_thumb.jpg"
+      }
+    ]
   }
 ]
