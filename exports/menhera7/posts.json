@@ -1736,5 +1736,22 @@
     "id": 196,
     "date": "2024-06-01T15:27:19",
     "text": "Happy pride month to everyone celebrating it"
+  },
+  {
+    "id": 197,
+    "date": "2024-06-03T14:28:31",
+    "text": "Found this iPad in the battery bin at the GP today. Thought it was broken or such as all things in those bins are getting burned. But to my surprise it was still fully functional and without any sort of activation lock. Very interesting find!!",
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-06-03T14:28:31",
+        "media_type": "photo",
+        "original_name": "photo_2024-06-03_14-28-31.jpg",
+        "url": "media/197.jpg",
+        "size": 118004,
+        "thumb": "media/197.jpg_thumb.jpg"
+      }
+    ]
   }
 ]

@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-06-03T14:03:00.962016+00:00</updated>
+  <updated>2024-06-03T16:03:28.504854+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>197</id>
+    <title>Mikka's happenings 📒 #197</title>
+    <updated>2024-06-03T14:28:31+00:00</updated>
+    <content>&lt;p&gt;Found this iPad in the battery bin at the GP today. Thought it was broken or such as all things in those bins are getting burned. But to my surprise it was still fully functional and without any sort of activation lock. Very interesting find!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=197" rel="alternate"/>
+  </entry>
   <entry>
     <id>196</id>
     <title>Mikka's happenings 📒 #196</title>
