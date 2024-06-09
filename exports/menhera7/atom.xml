@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-06-09T20:03:08.882280+00:00</updated>
+  <updated>2024-06-09T22:02:52.889905+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>202</id>
+    <title>Mikka's happenings 📒 #202</title>
+    <updated>2024-06-09T21:06:58+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=202" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>201</id>
+    <title>Mikka's happenings 📒 #201</title>
+    <updated>2024-06-09T21:06:50+00:00</updated>
+    <content>&lt;p&gt;I am sure it'll be ok.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=201" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>200</id>
+    <title>Mikka's happenings 📒 #200</title>
+    <updated>2024-06-09T21:06:45+00:00</updated>
+    <content>&lt;p&gt;Been feeling ups and downs recently.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=200" rel="alternate"/>
+  </entry>
   <entry>
     <id>198</id>
     <title>Mikka's happenings 📒 #198</title>
