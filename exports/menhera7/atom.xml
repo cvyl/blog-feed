@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-06-16T22:03:15.111850+00:00</updated>
+  <updated>2024-06-17T00:07:48.647675+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>214</id>
+    <title>Mikka's happenings 📒 #214</title>
+    <updated>2024-06-16T22:04:36+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=214" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>213</id>
+    <title>Mikka's happenings 📒 #213</title>
+    <updated>2024-06-16T22:04:21+00:00</updated>
+    <content>&lt;p&gt;After some time, im picking up my kung fu and taichi studies again. Sifu still welcomes me&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=213" rel="alternate"/>
+  </entry>
   <entry>
     <id>212</id>
     <title>Mikka's happenings 📒 #212</title>
