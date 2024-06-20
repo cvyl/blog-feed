@@ -1952,6 +1952,33 @@
   {
     "id": 215,
     "date": "2024-06-18T12:01:13",
-    "text": "Google reached out for my internship application. A bit anxious as I have an interview this Friday via Google Meets"
+    "text": "Google reached out for my apprenticeship application. A bit anxious as I have an interview this Friday via Google Meets"
+  },
+  {
+    "id": 216,
+    "date": "2024-06-20T11:49:28",
+    "text": "First interview went well!! If my second interview goes as well as the first one then I’ll be an apprentice at Google September this year"
+  },
+  {
+    "id": 217,
+    "date": "2024-06-20T11:49:35",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:48:58",
+        "width": 512,
+        "height": 434,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "🙌",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/217.webm",
+        "size": 165699,
+        "thumb": "media/217.webm_thumb.jpg"
+      }
+    ]
   }
 ]
