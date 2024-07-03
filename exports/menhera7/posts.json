@@ -2035,5 +2035,32 @@
     "id": 223,
     "date": "2024-07-02T20:38:17",
     "text": "Ive been missing college a bunch because I have been focusing on getting ready for internships and such.\nOther than that I haven’t been able to be as active on my GitHub due to some personal issues"
+  },
+  {
+    "id": 224,
+    "date": "2024-07-03T17:46:29",
+    "text": "Being harassed sucks. Being beaten up over it too."
+  },
+  {
+    "id": 225,
+    "date": "2024-07-03T17:46:33",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:48:46",
+        "width": 512,
+        "height": 242,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "😭",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/225.webm",
+        "size": 173681,
+        "thumb": "media/225.webm_thumb.jpg"
+      }
+    ]
   }
 ]
