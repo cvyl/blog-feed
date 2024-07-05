@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-07-04T22:03:54.590053+00:00</updated>
+  <updated>2024-07-05T00:07:36.535979+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>226</id>
+    <title>Mikka's happenings 📒 #226</title>
+    <updated>2024-07-04T22:09:10+00:00</updated>
+    <content>&lt;p&gt;In my dreams I keep being in the same dream every night. It’s a different world where life’s concepts are completely different.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=226" rel="alternate"/>
+  </entry>
   <entry>
     <id>225</id>
     <title>Mikka's happenings 📒 #225</title>
