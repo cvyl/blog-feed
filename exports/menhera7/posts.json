@@ -2092,5 +2092,32 @@
     "id": 231,
     "date": "2024-07-16T19:48:14",
     "text": "Debating the right of my existence with people makes me feel like this world isn't for me."
+  },
+  {
+    "id": 232,
+    "date": "2024-07-18T10:09:18",
+    "text": "Taking the day off the internet today. Don’t feel like interacting with anyone. I’ll be doing some chores around the house and mow the neighbour’s lawn."
+  },
+  {
+    "id": 233,
+    "date": "2024-07-18T10:09:41",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:49:09",
+        "width": 512,
+        "height": 508,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "😒",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/233.webm",
+        "size": 158931,
+        "thumb": "media/233.webm_thumb.jpg"
+      }
+    ]
   }
 ]
