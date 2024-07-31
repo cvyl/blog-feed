@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-07-31T12:03:34.814849+00:00</updated>
+  <updated>2024-07-31T14:03:29.103615+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>239</id>
+    <title>Mikka's happenings 📒 #239</title>
+    <updated>2024-07-31T13:03:59+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=239" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>238</id>
+    <title>Mikka's happenings 📒 #238</title>
+    <updated>2024-07-31T13:03:55+00:00</updated>
+    <content>&lt;p&gt;Using the correct restroom is scary, when using the incorrect one I feel unsafe and when using the correct one I am afraid to be yelled at..&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=238" rel="alternate"/>
+  </entry>
   <entry>
     <id>237</id>
     <title>Mikka's happenings 📒 #237</title>

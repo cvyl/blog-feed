@@ -2157,5 +2157,32 @@
     "id": 237,
     "date": "2024-07-28T20:26:36",
     "text": "I sometimes am afraid of forgetting things"
+  },
+  {
+    "id": 238,
+    "date": "2024-07-31T13:03:55",
+    "text": "Using the correct restroom is scary, when using the incorrect one I feel unsafe and when using the correct one I am afraid to be yelled at.."
+  },
+  {
+    "id": 239,
+    "date": "2024-07-31T13:03:59",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:48:46",
+        "width": 512,
+        "height": 242,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "😭",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/239.webm",
+        "size": 173681,
+        "thumb": "media/239.webm_thumb.jpg"
+      }
+    ]
   }
 ]
