@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-08-03T18:03:10.982845+00:00</updated>
+  <updated>2024-08-03T20:02:50.587116+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>240</id>
+    <title>Mikka's happenings 📒 #240</title>
+    <updated>2024-08-03T19:37:32+00:00</updated>
+    <content>&lt;p&gt;Although I am in remission for depression, suicidality still happens every so often.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=240" rel="alternate"/>
+  </entry>
   <entry>
     <id>239</id>
     <title>Mikka's happenings 📒 #239</title>
