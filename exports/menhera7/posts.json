@@ -2189,5 +2189,37 @@
     "id": 240,
     "date": "2024-08-03T19:37:32",
     "text": "Although I am in remission for depression, suicidality still happens every so often."
+  },
+  {
+    "id": 241,
+    "date": "2024-08-04T13:43:53",
+    "text": "I was really excited to meet up with a friend I really like, just for them to cancel the meeting the same day it was agreed upon."
+  },
+  {
+    "id": 242,
+    "date": "2024-08-04T13:44:06",
+    "text": "I feel so let down. I waited the whole week for this."
+  },
+  {
+    "id": 243,
+    "date": "2024-08-04T13:44:21",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T12:41:44",
+        "width": 512,
+        "height": 250,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "😭",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/243.webm",
+        "size": 259898,
+        "thumb": "media/243.webm_thumb.jpg"
+      }
+    ]
   }
 ]
