@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-08-06T22:02:55.145421+00:00</updated>
+  <updated>2024-08-07T00:07:36.835170+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>246</id>
+    <title>Mikka's happenings 📒 #246</title>
+    <updated>2024-08-06T23:03:41+00:00</updated>
+    <content>&lt;p&gt;I might work on a few side projects as well, for example. HWU. I feel like I've let down the small circle of people within it. But I am overthinking it.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=246" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>245</id>
+    <title>Mikka's happenings 📒 #245</title>
+    <updated>2024-08-06T22:55:21+00:00</updated>
+    <content>&lt;p&gt;It's not negative in that regard, but just, a lot.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=245" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>244</id>
+    <title>Mikka's happenings 📒 #244</title>
+    <updated>2024-08-06T22:55:04+00:00</updated>
+    <content>&lt;p&gt;I'm not feeling too well. I think I'll call in sick. I'm just a bit exhausted and need some time off to process things. Life has been going fast lately..&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=244" rel="alternate"/>
+  </entry>
   <entry>
     <id>243</id>
     <title>Mikka's happenings 📒 #243</title>
