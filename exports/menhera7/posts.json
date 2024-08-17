@@ -2278,5 +2278,37 @@
     "id": 251,
     "date": "2024-08-13T13:26:50",
     "text": "I'll be sure to recommend them to friends."
+  },
+  {
+    "id": 252,
+    "date": "2024-08-17T10:40:56",
+    "text": "I’ve been suffering from Viral gastroenteritis since a few days ago. It really makes me fragile and I am barely able to do anything"
+  },
+  {
+    "id": 253,
+    "date": "2024-08-17T10:41:12",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:49:11",
+        "width": 512,
+        "height": 434,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "😣",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/253.webm",
+        "size": 139947,
+        "thumb": "media/253.webm_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "date": "2024-08-17T11:11:28",
+    "text": "I haven’t really eaten anything the past two days"
   }
 ]
