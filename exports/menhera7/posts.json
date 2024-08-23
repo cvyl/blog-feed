@@ -2325,5 +2325,37 @@
     "id": 257,
     "date": "2024-08-21T16:29:17",
     "text": "Working on hosting a smaller sub domain where I save notes from my iPad to: <a href=\"https://notes.cvyl.me\">https://notes.cvyl.me</a>"
+  },
+  {
+    "id": 258,
+    "date": "2024-08-23T06:18:05",
+    "text": "I got myself the new iPhone!! Really nice using it"
+  },
+  {
+    "id": 259,
+    "date": "2024-08-23T06:18:14",
+    "text": "It’s an iphone 15 pro."
+  },
+  {
+    "id": 260,
+    "date": "2024-08-23T06:18:17",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:48:50",
+        "width": 512,
+        "height": 428,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "😄",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/260.webm",
+        "size": 199487,
+        "thumb": "media/260.webm_thumb.jpg"
+      }
+    ]
   }
 ]
