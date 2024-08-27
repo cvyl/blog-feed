@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-08-27T16:02:48.483387+00:00</updated>
+  <updated>2024-08-27T17:06:34.897899+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>264</id>
+    <title>Mikka's happenings 📒 #264</title>
+    <updated>2024-08-27T16:48:01+00:00</updated>
+    <content>&lt;p&gt;如何摆脱消极的想法？&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=264" rel="alternate"/>
+  </entry>
   <entry>
     <id>263</id>
     <title>Mikka's happenings 📒 #263</title>
