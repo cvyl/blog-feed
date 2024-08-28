@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-08-28T12:03:48.445672+00:00</updated>
+  <updated>2024-08-28T14:03:08.763563+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>265</id>
+    <title>Mikka's happenings 📒 #265</title>
+    <updated>2024-08-28T12:57:24+00:00</updated>
+    <content>&lt;p&gt;I feel ghosted by others. Why is it that they won’t message me back?
+Was it something I did wrong?&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=265" rel="alternate"/>
+  </entry>
   <entry>
     <id>264</id>
     <title>Mikka's happenings 📒 #264</title>
