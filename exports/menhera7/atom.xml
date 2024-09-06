@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-09-06T18:02:58.738435+00:00</updated>
+  <updated>2024-09-06T20:03:05.941824+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>276</id>
+    <title>Mikka's happenings 📒 #276</title>
+    <updated>2024-09-06T19:42:33+00:00</updated>
+    <content>&lt;p&gt;It's a bad coping mechanism, but I will try to keep it up for now. As I'd rather be busy with something I feel like I'll earn more from than staying behind in my own thoughts.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=276" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>275</id>
+    <title>Mikka's happenings 📒 #275</title>
+    <updated>2024-09-06T19:41:14+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=275" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>274</id>
+    <title>Mikka's happenings 📒 #274</title>
+    <updated>2024-09-06T19:41:01+00:00</updated>
+    <content>&lt;p&gt;It's a lame excuse.
+I work over 50 hours total a week. As my mind is simply programmed to believe that when I am not doing something productive, I am doing something useless.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=274" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>273</id>
+    <title>Mikka's happenings 📒 #273</title>
+    <updated>2024-09-06T19:40:17+00:00</updated>
+    <content>&lt;p&gt;I think the reason I keep myself so busy and I have so much to do is because me working hard takes my mind off the issues that are really playing in my head.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=273" rel="alternate"/>
+  </entry>
   <entry>
     <id>272</id>
     <title>Mikka's happenings 📒 #272</title>
