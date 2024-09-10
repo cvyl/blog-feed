@@ -2,16 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-09-10T14:02:45.280840+00:00</updated>
+  <updated>2024-09-10T16:03:10.998839+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
   <entry>
+    <id>278</id>
+    <title>Mikka's happenings 📒 #278</title>
+    <updated>2024-09-10T15:48:24+00:00</updated>
+    <content>&lt;p&gt;I got assigned a new project the company is working on. It’s pretty exciting considering it’s a lot of new stuff when it comes to framework, languages etc. I’ve written a writeup at &lt;a href="https://notes.cvyl.me/Studies/Apprenticeship/2024/Brainstorming/Laravel+SaaS+Analytics+Application/Analytics+Project+Creation"&gt;https://notes.cvyl.me/Studies/Apprenticeship/2024/Brainstorming/Laravel+SaaS+Analytics+Application/Analytics+Project+Creation&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=278" rel="alternate"/>
+  </entry>
+  <entry>
     <id>277</id>
     <title>Mikka's happenings 📒 #277</title>
     <updated>2024-09-08T12:05:55+00:00</updated>
-    <content>&lt;p&gt;To be honeet, I can't wait for Winter to arrive. It has always been a nice time. Although I love nature in it's uncovered beauty, I also appreciate the calm of winter.&lt;/p&gt;</content>
+    <content>&lt;p&gt;To be honest, I can't wait for Winter to arrive. It has always been a nice time. Although I love nature in it's uncovered beauty, I also appreciate the calm of winter.&lt;/p&gt;</content>
     <link href="https://cvyl.me/life?post=277" rel="alternate"/>
   </entry>
   <entry>
