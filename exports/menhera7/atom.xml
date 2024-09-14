@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-09-14T10:02:56.730262+00:00</updated>
+  <updated>2024-09-14T12:03:39.381558+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>282</id>
+    <title>Mikka's happenings 📒 #282</title>
+    <updated>2024-09-14T11:41:31+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=282" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>281</id>
+    <title>Mikka's happenings 📒 #281</title>
+    <updated>2024-09-14T11:41:20+00:00</updated>
+    <content>&lt;p&gt;I am currently working around 6 days a week. I hope to keep it up as it pays well. But im not sure if it’s making me happier mentally.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=281" rel="alternate"/>
+  </entry>
   <entry>
     <id>280</id>
     <title>Mikka's happenings 📒 #280</title>
