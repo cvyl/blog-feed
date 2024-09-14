@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-09-14T20:02:54.703863+00:00</updated>
+  <updated>2024-09-14T22:02:56.746339+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>285</id>
+    <title>Mikka's happenings 📒 #285</title>
+    <updated>2024-09-14T21:01:11+00:00</updated>
+    <content>&lt;p&gt;Back in 2017-2018 I barely knew how to talk to strangers and socialise. And now im here, doing things younger me would never think of doing&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=285" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>284</id>
+    <title>Mikka's happenings 📒 #284</title>
+    <updated>2024-09-14T21:00:45+00:00</updated>
+    <content>&lt;p&gt;But I’ve made lots of progress since when I decided to work on myself.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=284" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>283</id>
+    <title>Mikka's happenings 📒 #283</title>
+    <updated>2024-09-14T21:00:21+00:00</updated>
+    <content>&lt;p&gt;To clarify, it’s especially hard to get used to when you’ve been a recluse for the bigger part of your life.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=283" rel="alternate"/>
+  </entry>
   <entry>
     <id>282</id>
     <title>Mikka's happenings 📒 #282</title>
