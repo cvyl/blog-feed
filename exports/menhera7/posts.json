@@ -2675,5 +2675,20 @@
         "thumb": "media/298.webm_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 299,
+    "date": "2024-09-27T17:09:47",
+    "text": "I hope to meet more friends!! They make me happy!!!!"
+  },
+  {
+    "id": 300,
+    "date": "2024-09-27T17:10:40",
+    "text": "I want to revamp my friends page too, have cute profile pictures and such instead of markdown format. This blog structure at the time of writing, Hexo, supports Vue which is why I already managed to make <a href=\"https://cvyl.me/nav\">https://cvyl.me/nav</a>"
+  },
+  {
+    "id": 301,
+    "date": "2024-09-27T17:15:21",
+    "text": "Also, only now I realized that the time shown on my feed is 2 hours off haha"
   }
 ]

@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-09-27T16:03:04.062131+00:00</updated>
+  <updated>2024-09-27T18:03:46.618489+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>301</id>
+    <title>Mikka's happenings 📒 #301</title>
+    <updated>2024-09-27T17:15:21+00:00</updated>
+    <content>&lt;p&gt;Also, only now I realized that the time shown on my feed is 2 hours off haha&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=301" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>300</id>
+    <title>Mikka's happenings 📒 #300</title>
+    <updated>2024-09-27T17:10:40+00:00</updated>
+    <content>&lt;p&gt;I want to revamp my friends page too, have cute profile pictures and such instead of markdown format. This blog structure at the time of writing, Hexo, supports Vue which is why I already managed to make &lt;a href="https://cvyl.me/nav"&gt;https://cvyl.me/nav&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=300" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>299</id>
+    <title>Mikka's happenings 📒 #299</title>
+    <updated>2024-09-27T17:09:47+00:00</updated>
+    <content>&lt;p&gt;I hope to meet more friends!! They make me happy!!!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=299" rel="alternate"/>
+  </entry>
   <entry>
     <id>298</id>
     <title>Mikka's happenings 📒 #298</title>
