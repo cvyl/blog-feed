@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-09-27T10:03:10.857578+00:00</updated>
+  <updated>2024-09-27T12:04:05.681860+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>298</id>
+    <title>Mikka's happenings 📒 #298</title>
+    <updated>2024-09-27T10:41:59+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=298" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>297</id>
+    <title>Mikka's happenings 📒 #297</title>
+    <updated>2024-09-27T10:41:24+00:00</updated>
+    <content>&lt;p&gt;I hope to have more sleepovers and meetups with friends as they’re so fun!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=297" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>296</id>
+    <title>Mikka's happenings 📒 #296</title>
+    <updated>2024-09-27T10:41:07+00:00</updated>
+    <content>&lt;p&gt;I’ve been super busy!!! But I’ve also made a positive impact on myself&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=296" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>295</id>
+    <title>Mikka's happenings 📒 #295</title>
+    <updated>2024-09-27T10:40:47+00:00</updated>
+    <content>&lt;p&gt;Overall, life seems to have improved in the recent months.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=295" rel="alternate"/>
+  </entry>
   <entry>
     <id>294</id>
     <title>Mikka's happenings 📒 #294</title>
