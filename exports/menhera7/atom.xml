@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-09-28T12:04:19.485035+00:00</updated>
+  <updated>2024-09-28T14:03:26.639473+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>303</id>
+    <title>Mikka's happenings 📒 #303</title>
+    <updated>2024-09-28T12:33:43+00:00</updated>
+    <content>&lt;p&gt;It’s pricey going for over € 1.000+ for one course, but I planned a trial lesson next week!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=303" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>302</id>
+    <title>Mikka's happenings 📒 #302</title>
+    <updated>2024-09-28T12:29:56+00:00</updated>
+    <content>&lt;p&gt;My consult chat with GoEast went well!!! I am really interested in following their course, but I hope to find the time for it, I am sure I’ll figure something out. Got WeChat to work via my American phone number (eSIM) and added my contact on there.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=302" rel="alternate"/>
+  </entry>
   <entry>
     <id>301</id>
     <title>Mikka's happenings 📒 #301</title>
