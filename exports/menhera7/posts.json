@@ -2727,5 +2727,32 @@
         "thumb": "media/305.webm_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 306,
+    "date": "2024-09-29T17:25:24",
+    "text": "I had some fan issues which caused a noise which really irritated me"
+  },
+  {
+    "id": 307,
+    "date": "2024-09-29T17:26:29",
+    "text": "After disassembling, I found a coiled up piece of my hair in the middle of the blade which caused the noise. I was about to open a warranty ticket because I thought it was coil whine. Instead, it was hair whine 😅",
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-09-29T17:26:29",
+        "media_type": "photo",
+        "original_name": "photo_2024-09-29_17-26-29.jpg",
+        "url": "media/307.jpg",
+        "size": 135998,
+        "thumb": "media/307.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "date": "2024-09-29T17:32:13",
+    "text": "Orrrr it might be a piece of coil that got mixed up, because I realised that my hair is not that shiny"
   }
 ]

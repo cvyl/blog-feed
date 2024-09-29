@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-09-29T16:03:36.537280+00:00</updated>
+  <updated>2024-09-29T18:03:32.355282+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>308</id>
+    <title>Mikka's happenings 📒 #308</title>
+    <updated>2024-09-29T17:32:13+00:00</updated>
+    <content>&lt;p&gt;Orrrr it might be a piece of coil that got mixed up, because I realised that my hair is not that shiny&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=308" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>307</id>
+    <title>Mikka's happenings 📒 #307</title>
+    <updated>2024-09-29T17:26:29+00:00</updated>
+    <content>&lt;p&gt;After disassembling, I found a coiled up piece of my hair in the middle of the blade which caused the noise. I was about to open a warranty ticket because I thought it was coil whine. Instead, it was hair whine 😅&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=307" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>306</id>
+    <title>Mikka's happenings 📒 #306</title>
+    <updated>2024-09-29T17:25:24+00:00</updated>
+    <content>&lt;p&gt;I had some fan issues which caused a noise which really irritated me&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=306" rel="alternate"/>
+  </entry>
   <entry>
     <id>305</id>
     <title>Mikka's happenings 📒 #305</title>
