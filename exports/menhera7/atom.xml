@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-10-01T14:03:42.437990+00:00</updated>
+  <updated>2024-10-01T16:03:47.781961+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>311</id>
+    <title>Mikka's happenings 📒 #311</title>
+    <updated>2024-10-01T15:10:22+00:00</updated>
+    <content>&lt;p&gt;I got a bit shy and felt honoured when I hear that people look up to me..
+It’s something I suppose I need to get used to 😊&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=311" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>310</id>
+    <title>Mikka's happenings 📒 #310</title>
+    <updated>2024-10-01T15:06:31+00:00</updated>
+    <content>&lt;p&gt;I am a bit anxious about my trial lesson this Sunday but I’ll do my best and see if it’s worth the € 1K+ 😣&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=310" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>309</id>
+    <title>Mikka's happenings 📒 #309</title>
+    <updated>2024-10-01T15:05:50+00:00</updated>
+    <content>&lt;p&gt;I’m glad to have the friends I have, both online and offline. 
+I hope to help everyone.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=309" rel="alternate"/>
+  </entry>
   <entry>
     <id>308</id>
     <title>Mikka's happenings 📒 #308</title>
