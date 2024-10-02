@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-10-02T20:03:42.943305+00:00</updated>
+  <updated>2024-10-02T22:03:34.452691+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>313</id>
+    <title>Mikka's happenings 📒 #313</title>
+    <updated>2024-10-02T20:10:02+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=313" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>312</id>
+    <title>Mikka's happenings 📒 #312</title>
+    <updated>2024-10-02T20:09:48+00:00</updated>
+    <content>&lt;p&gt;Although I have trouble of viewing myself as pretty or such. It feels nice to hear that my friends think I’m cute.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=312" rel="alternate"/>
+  </entry>
   <entry>
     <id>311</id>
     <title>Mikka's happenings 📒 #311</title>

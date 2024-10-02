@@ -2769,5 +2769,32 @@
     "id": 311,
     "date": "2024-10-01T15:10:22",
     "text": "I got a bit shy and felt honoured when I hear that people look up to me..\nIt’s something I suppose I need to get used to 😊"
+  },
+  {
+    "id": 312,
+    "date": "2024-10-02T20:09:48",
+    "text": "Although I have trouble of viewing myself as pretty or such. It feels nice to hear that my friends think I’m cute."
+  },
+  {
+    "id": 313,
+    "date": "2024-10-02T20:10:02",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T12:42:17",
+        "width": 512,
+        "height": 424,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "💔",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/313.webm",
+        "size": 182963,
+        "thumb": "media/313.webm_thumb.jpg"
+      }
+    ]
   }
 ]
