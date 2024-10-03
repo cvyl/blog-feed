@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-10-03T10:03:47.936410+00:00</updated>
+  <updated>2024-10-03T12:04:20.595405+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>316</id>
+    <title>Mikka's happenings 📒 #316</title>
+    <updated>2024-10-03T10:51:20+00:00</updated>
+    <content>&lt;p&gt;They say it’s part of life and you need to get used to it.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=316" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>315</id>
+    <title>Mikka's happenings 📒 #315</title>
+    <updated>2024-10-03T10:51:11+00:00</updated>
+    <content>&lt;p&gt;I am not sure how long I’ll be able to keep this up&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=315" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>314</id>
+    <title>Mikka's happenings 📒 #314</title>
+    <updated>2024-10-03T10:47:53+00:00</updated>
+    <content>&lt;p&gt;I’ve been running overclocked for the past few weeks and I am getting too exhausted to keep functioning&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=314" rel="alternate"/>
+  </entry>
   <entry>
     <id>313</id>
     <title>Mikka's happenings 📒 #313</title>
