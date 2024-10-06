@@ -2811,5 +2811,37 @@
     "id": 316,
     "date": "2024-10-03T10:51:20",
     "text": "They say it’s part of life and you need to get used to it."
+  },
+  {
+    "id": 317,
+    "date": "2024-10-06T10:47:59",
+    "text": "The sleepover is so much fun!!!"
+  },
+  {
+    "id": 318,
+    "date": "2024-10-06T10:48:11",
+    "text": "Having walks around town and watching some silly anime together"
+  },
+  {
+    "id": 319,
+    "date": "2024-10-06T10:48:13",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:49:06",
+        "width": 512,
+        "height": 424,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "👏",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/319.webm",
+        "size": 99643,
+        "thumb": "media/319.webm_thumb.jpg"
+      }
+    ]
   }
 ]
