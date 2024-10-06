@@ -2843,5 +2843,37 @@
         "thumb": "media/319.webm_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 320,
+    "date": "2024-10-06T15:19:09",
+    "text": "I got news that says I might be able to graduate college February next year. Then I’ll have graduated in 11 months instead of the 48 months the course normally takes"
+  },
+  {
+    "id": 321,
+    "date": "2024-10-06T15:19:24",
+    "text": "Alumni 2025 instead of 2028"
+  },
+  {
+    "id": 322,
+    "date": "2024-10-06T15:19:30",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:48:56",
+        "width": 512,
+        "height": 454,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "❤️",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/322.webm",
+        "size": 166658,
+        "thumb": "media/322.webm_thumb.jpg"
+      }
+    ]
   }
 ]

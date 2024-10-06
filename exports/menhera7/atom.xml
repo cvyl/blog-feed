@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-10-06T14:03:32.283157+00:00</updated>
+  <updated>2024-10-06T16:03:25.467314+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>322</id>
+    <title>Mikka's happenings 📒 #322</title>
+    <updated>2024-10-06T15:19:30+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=322" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>321</id>
+    <title>Mikka's happenings 📒 #321</title>
+    <updated>2024-10-06T15:19:24+00:00</updated>
+    <content>&lt;p&gt;Alumni 2025 instead of 2028&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=321" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>320</id>
+    <title>Mikka's happenings 📒 #320</title>
+    <updated>2024-10-06T15:19:09+00:00</updated>
+    <content>&lt;p&gt;I got news that says I might be able to graduate college February next year. Then I’ll have graduated in 11 months instead of the 48 months the course normally takes&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=320" rel="alternate"/>
+  </entry>
   <entry>
     <id>319</id>
     <title>Mikka's happenings 📒 #319</title>
