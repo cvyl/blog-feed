@@ -2875,5 +2875,32 @@
         "thumb": "media/322.webm_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 323,
+    "date": "2024-10-07T05:35:56",
+    "text": "My HRT supplier in Europe got shut down, permanently.. read the news on an online forum, really unfortunate.. They were the most trusted source here in Europe."
+  },
+  {
+    "id": 324,
+    "date": "2024-10-07T05:36:38",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2023-01-31T15:36:25",
+        "width": 512,
+        "height": 512,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😢",
+        "set_name": "laining_by_fStikBot",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/324.webp",
+        "size": 25102,
+        "thumb": "media/324.webp_thumb.jpg"
+      }
+    ]
   }
 ]

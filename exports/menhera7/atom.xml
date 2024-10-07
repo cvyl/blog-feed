@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-10-07T04:04:03.270908+00:00</updated>
+  <updated>2024-10-07T06:04:20.843360+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>324</id>
+    <title>Mikka's happenings 📒 #324</title>
+    <updated>2024-10-07T05:36:38+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=324" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>323</id>
+    <title>Mikka's happenings 📒 #323</title>
+    <updated>2024-10-07T05:35:56+00:00</updated>
+    <content>&lt;p&gt;My HRT supplier in Europe got shut down, permanently.. read the news on an online forum, really unfortunate.. They were the most trusted source here in Europe.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=323" rel="alternate"/>
+  </entry>
   <entry>
     <id>322</id>
     <title>Mikka's happenings 📒 #322</title>
