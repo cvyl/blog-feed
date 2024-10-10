@@ -2907,5 +2907,37 @@
     "id": 325,
     "date": "2024-10-09T18:41:29",
     "text": "I am more comfortable lately, very nice."
+  },
+  {
+    "id": 326,
+    "date": "2024-10-10T17:25:59",
+    "text": "My peers being more feminine than me sure makes me feel like my transition isn’t going well at all"
+  },
+  {
+    "id": 327,
+    "date": "2024-10-10T17:36:47",
+    "text": "But I have a role to uphold as a bigger sister for my little sisters"
+  },
+  {
+    "id": 328,
+    "date": "2024-10-10T17:37:10",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T09:49:12",
+        "width": 512,
+        "height": 494,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "😢",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/328.webm",
+        "size": 125002,
+        "thumb": "media/328.webm_thumb.jpg"
+      }
+    ]
   }
 ]
