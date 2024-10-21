@@ -5,6 +5,10 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+env:
+  TZ: Europe/Amsterdam
+  LC_TIME: POSIX
+
 jobs:
   build:
     runs-on: ubuntu-latest
