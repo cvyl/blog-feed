@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-10-22T06:04:14.417258+00:00</updated>
+  <updated>2024-10-22T08:03:59.831356+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>356</id>
+    <title>Mikka's happenings 📒 #356</title>
+    <updated>2024-10-22T08:34:25+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=356" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>355</id>
+    <title>Mikka's happenings 📒 #355</title>
+    <updated>2024-10-22T08:32:45+00:00</updated>
+    <content>&lt;p&gt;An office job really isn’t for me.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=355" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>354</id>
+    <title>Mikka's happenings 📒 #354</title>
+    <updated>2024-10-22T08:25:06+00:00</updated>
+    <content>&lt;p&gt;I hope to be done with my apprenticeship February 2025 and graduate as soon as possible so I can start a bachelor course in computer science&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=354" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>353</id>
+    <title>Mikka's happenings 📒 #353</title>
+    <updated>2024-10-22T08:23:12+00:00</updated>
+    <content>&lt;p&gt;I’ve been wanting to post more here.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=353" rel="alternate"/>
+  </entry>
   <entry>
     <id>352</id>
     <title>Mikka's happenings 📒 #352</title>
