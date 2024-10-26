@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-10-26T08:03:51.472996+00:00</updated>
+  <updated>2024-10-26T10:03:37.139537+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>395</id>
+    <title>Mikka's happenings 📒 #395</title>
+    <updated>2024-10-26T11:47:30+00:00</updated>
+    <content>&lt;p&gt;Busses scare me.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=395" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>394</id>
+    <title>Mikka's happenings 📒 #394</title>
+    <updated>2024-10-26T11:47:24+00:00</updated>
+    <content>&lt;p&gt;The train is so crowded.. But Atleast it’s not a bus.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=394" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>393</id>
+    <title>Mikka's happenings 📒 #393</title>
+    <updated>2024-10-26T11:23:31+00:00</updated>
+    <content>&lt;p&gt;At the train station, it’s a long trip but I’m excited.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=393" rel="alternate"/>
+  </entry>
   <entry>
     <id>392</id>
     <title>Mikka's happenings 📒 #392</title>
