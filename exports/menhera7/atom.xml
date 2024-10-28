@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-10-28T10:03:46.829070+00:00</updated>
+  <updated>2024-10-28T12:04:43.294900+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>407</id>
+    <title>Mikka's happenings 📒 #407</title>
+    <updated>2024-10-28T12:02:57+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=407" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>406</id>
+    <title>Mikka's happenings 📒 #406</title>
+    <updated>2024-10-28T12:02:23+00:00</updated>
+    <content>&lt;p&gt;And that for the price too. 
+But I won’t say it was horrible as I had amazing company.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=406" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>405</id>
+    <title>Mikka's happenings 📒 #405</title>
+    <updated>2024-10-28T12:01:27+00:00</updated>
+    <content>&lt;p&gt;I’ve never eaten much fast food or such, so going to a McDonalds feels so alien after barely going to one. You don’t need to even interact with any workers in order to order a hamburger, it’s all done via huge screens. Also, I now remember why I don’t go to fast food places, the food is subpar.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=405" rel="alternate"/>
+  </entry>
   <entry>
     <id>404</id>
     <title>Mikka's happenings 📒 #404</title>

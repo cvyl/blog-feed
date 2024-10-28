@@ -3513,5 +3513,37 @@
     "id": 404,
     "date": "2024-10-27T23:05:22",
     "text": "After my visit to my girlfriend it made me understand love more."
+  },
+  {
+    "id": 405,
+    "date": "2024-10-28T12:01:27",
+    "text": "I’ve never eaten much fast food or such, so going to a McDonalds feels so alien after barely going to one. You don’t need to even interact with any workers in order to order a hamburger, it’s all done via huge screens. Also, I now remember why I don’t go to fast food places, the food is subpar."
+  },
+  {
+    "id": 406,
+    "date": "2024-10-28T12:02:23",
+    "text": "And that for the price too. \nBut I won’t say it was horrible as I had amazing company."
+  },
+  {
+    "id": 407,
+    "date": "2024-10-28T12:02:57",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2018-07-05T06:39:55",
+        "width": 512,
+        "height": 443,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😄",
+        "set_name": "Menhera_chan_zh_Hant_1",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/407.webp",
+        "size": 38668,
+        "thumb": "media/407.webp_thumb.jpg"
+      }
+    ]
   }
 ]
