@@ -3545,5 +3545,27 @@
         "thumb": "media/407.webp_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 408,
+    "date": "2024-10-28T14:38:08",
+    "text": "I hope once I finish my current course, to start a bachelor program in computer science. After that I hope to start with a university degree in computer science."
+  },
+  {
+    "id": 409,
+    "date": "2024-10-28T15:02:23",
+    "text": "I totally forgot to mention, got me cute pants as a gift!!",
+    "images": [
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2024-10-28T15:02:23",
+        "media_type": "photo",
+        "original_name": "photo_2024-10-28_15-02-23.jpg",
+        "url": "media/409.jpg",
+        "size": 128757,
+        "thumb": "media/409.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
