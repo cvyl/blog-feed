@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-11-01T10:03:37.171459+00:00</updated>
+  <updated>2024-11-01T12:04:25.727400+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>417</id>
+    <title>Mikka's happenings 📒 #417</title>
+    <updated>2024-11-01T11:07:40+00:00</updated>
+    <content>&lt;p&gt;People use the buzzword AI everywhere but in reality I’m only interested in the actual technical aspects of it. Training a set, testing it, etc.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=417" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>416</id>
+    <title>Mikka's happenings 📒 #416</title>
+    <updated>2024-11-01T11:06:58+00:00</updated>
+    <content>&lt;p&gt;I think machine learning algorithms will be beneficial to medical research when it comes to identifying patterns.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=416" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>415</id>
+    <title>Mikka's happenings 📒 #415</title>
+    <updated>2024-11-01T11:06:25+00:00</updated>
+    <content>&lt;p&gt;I’ve been wanting to look more into machine learning and how to use TensorFlow.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=415" rel="alternate"/>
+  </entry>
   <entry>
     <id>414</id>
     <title>Mikka's happenings 📒 #414</title>

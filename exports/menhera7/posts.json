@@ -3609,5 +3609,20 @@
     "id": 414,
     "date": "2024-11-01T10:56:00",
     "text": "Today I will try to get some roof work done. Lots of leaves to clean."
+  },
+  {
+    "id": 415,
+    "date": "2024-11-01T11:06:25",
+    "text": "I’ve been wanting to look more into machine learning and how to use TensorFlow."
+  },
+  {
+    "id": 416,
+    "date": "2024-11-01T11:06:58",
+    "text": "I think machine learning algorithms will be beneficial to medical research when it comes to identifying patterns."
+  },
+  {
+    "id": 417,
+    "date": "2024-11-01T11:07:40",
+    "text": "People use the buzzword AI everywhere but in reality I’m only interested in the actual technical aspects of it. Training a set, testing it, etc."
   }
 ]
