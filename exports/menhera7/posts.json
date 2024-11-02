@@ -3624,5 +3624,37 @@
     "id": 417,
     "date": "2024-11-01T11:07:40",
     "text": "People use the buzzword AI everywhere but in reality I’m only interested in the actual technical aspects of it. Training a set, testing it, etc."
+  },
+  {
+    "id": 418,
+    "date": "2024-11-01T23:35:34",
+    "text": "Rewriting a new website for my blog. A lot of work but worth it."
+  },
+  {
+    "id": 419,
+    "date": "2024-11-01T23:36:00",
+    "text": "Dysphoria is getting to me sometimes but my girlfriend makes me think it’ll all be OK"
+  },
+  {
+    "id": 420,
+    "date": "2024-11-01T23:36:20",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2018-07-05T07:33:04",
+        "width": 512,
+        "height": 443,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😍",
+        "set_name": "Menhera_chan_zh_Hant_1",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/420.webp",
+        "size": 32060,
+        "thumb": "media/420.webp_thumb.jpg"
+      }
+    ]
   }
 ]

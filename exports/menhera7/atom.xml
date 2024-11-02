@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-11-01T22:03:31.617996+00:00</updated>
+  <updated>2024-11-02T00:08:59.269526+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>420</id>
+    <title>Mikka's happenings 📒 #420</title>
+    <updated>2024-11-01T23:36:20+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=420" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>419</id>
+    <title>Mikka's happenings 📒 #419</title>
+    <updated>2024-11-01T23:36:00+00:00</updated>
+    <content>&lt;p&gt;Dysphoria is getting to me sometimes but my girlfriend makes me think it’ll all be OK&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=419" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>418</id>
+    <title>Mikka's happenings 📒 #418</title>
+    <updated>2024-11-01T23:35:34+00:00</updated>
+    <content>&lt;p&gt;Rewriting a new website for my blog. A lot of work but worth it.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=418" rel="alternate"/>
+  </entry>
   <entry>
     <id>417</id>
     <title>Mikka's happenings 📒 #417</title>
