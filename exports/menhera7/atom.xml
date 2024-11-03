@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-11-03T20:03:45.406342+00:00</updated>
+  <updated>2024-11-03T22:03:19.116700+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>427</id>
+    <title>Mikka's happenings 📒 #427</title>
+    <updated>2024-11-03T23:03:07+00:00</updated>
+    <content>&lt;p&gt;It’s just so,, weird, the feeling of content. It’s a new emotion I’ve never really felt before.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=427" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>426</id>
+    <title>Mikka's happenings 📒 #426</title>
+    <updated>2024-11-03T23:02:22+00:00</updated>
+    <content>&lt;p&gt;Anyhow, I’ve been doing a lot better compared to earlier this year. And to go even further back I was in an even worse condition. Overall, although there’s still many things I dislike, hate or want to change, my life is doing better.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=426" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>425</id>
+    <title>Mikka's happenings 📒 #425</title>
+    <updated>2024-11-03T23:00:55+00:00</updated>
+    <content>&lt;p&gt;My girlfriend makes me feel all warm inside&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=425" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>424</id>
+    <title>Mikka's happenings 📒 #424</title>
+    <updated>2024-11-03T22:56:27+00:00</updated>
+    <content>&lt;p&gt;I am also planning to meet up with my wife (girlfriend) in 2 weeks again!!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=424" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>423</id>
+    <title>Mikka's happenings 📒 #423</title>
+    <updated>2024-11-03T22:56:04+00:00</updated>
+    <content>&lt;p&gt;We’re moving to a new place. Seems the company is doing well. Honestly, I am quite happy about it as gendered toilets made me feel most uncomfortable.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=423" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>422</id>
+    <title>Mikka's happenings 📒 #422</title>
+    <updated>2024-11-03T22:55:11+00:00</updated>
+    <content>&lt;p&gt;Aaa tomorrow work starts again.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=422" rel="alternate"/>
+  </entry>
   <entry>
     <id>421</id>
     <title>Mikka's happenings 📒 #421</title>
