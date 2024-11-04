@@ -3691,5 +3691,37 @@
     "id": 427,
     "date": "2024-11-03T23:03:07",
     "text": "It’s just so,, weird, the feeling of content. It’s a new emotion I’ve never really felt before."
+  },
+  {
+    "id": 428,
+    "date": "2024-11-03T23:03:46",
+    "text": "Having to re-learn all emotions when you forgot how to feel is quite a heavy task.. but I’m managing."
+  },
+  {
+    "id": 429,
+    "date": "2024-11-03T23:04:02",
+    "text": "Well, that was enough of my talking. Goodnight"
+  },
+  {
+    "id": 431,
+    "date": "2024-11-03T23:04:14",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2018-07-05T07:20:32",
+        "width": 512,
+        "height": 443,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😴",
+        "set_name": "Menhera_chan_zh_Hant_1",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/431.webp",
+        "size": 35998,
+        "thumb": "media/431.webp_thumb.jpg"
+      }
+    ]
   }
 ]

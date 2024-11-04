@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-11-03T22:03:19.116700+00:00</updated>
+  <updated>2024-11-04T00:09:29.030094+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>431</id>
+    <title>Mikka's happenings 📒 #431</title>
+    <updated>2024-11-03T23:04:14+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=431" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>429</id>
+    <title>Mikka's happenings 📒 #429</title>
+    <updated>2024-11-03T23:04:02+00:00</updated>
+    <content>&lt;p&gt;Well, that was enough of my talking. Goodnight&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=429" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>428</id>
+    <title>Mikka's happenings 📒 #428</title>
+    <updated>2024-11-03T23:03:46+00:00</updated>
+    <content>&lt;p&gt;Having to re-learn all emotions when you forgot how to feel is quite a heavy task.. but I’m managing.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=428" rel="alternate"/>
+  </entry>
   <entry>
     <id>427</id>
     <title>Mikka's happenings 📒 #427</title>
