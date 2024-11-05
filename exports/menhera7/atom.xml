@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-11-05T20:03:32.343370+00:00</updated>
+  <updated>2024-11-05T22:03:46.675483+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>435</id>
+    <title>Mikka's happenings 📒 #435</title>
+    <updated>2024-11-05T21:48:57+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=435" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>434</id>
+    <title>Mikka's happenings 📒 #434</title>
+    <updated>2024-11-05T21:48:36+00:00</updated>
+    <content>&lt;p&gt;Waited months for this!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=434" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>433</id>
+    <title>Mikka's happenings 📒 #433</title>
+    <updated>2024-11-05T21:48:28+00:00</updated>
+    <content>&lt;p&gt;It’s really nice and I’m glad I ordered it the moment it got stocked.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=433" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>432</id>
+    <title>Mikka's happenings 📒 #432</title>
+    <updated>2024-11-05T21:48:14+00:00</updated>
+    <content>&lt;p&gt;I got the new monster flavour I’ve been waiting for, for so long!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=432" rel="alternate"/>
+  </entry>
   <entry>
     <id>431</id>
     <title>Mikka's happenings 📒 #431</title>
