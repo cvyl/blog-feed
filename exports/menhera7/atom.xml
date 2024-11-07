@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-11-06T22:03:27.732983+00:00</updated>
+  <updated>2024-11-07T00:09:06.947353+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>441</id>
+    <title>Mikka's happenings 📒 #441</title>
+    <updated>2024-11-07T00:08:14+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=441" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>440</id>
+    <title>Mikka's happenings 📒 #440</title>
+    <updated>2024-11-07T00:07:46+00:00</updated>
+    <content>&lt;p&gt;I want to do my best to be as pretty and be the best girlfriend for my girlfriend&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=440" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>439</id>
+    <title>Mikka's happenings 📒 #439</title>
+    <updated>2024-11-07T00:07:27+00:00</updated>
+    <content>&lt;p&gt;I hope to grow old with her and live together💜&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=439" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>438</id>
+    <title>Mikka's happenings 📒 #438</title>
+    <updated>2024-11-07T00:07:14+00:00</updated>
+    <content>&lt;p&gt;I’m so happy with my girlfriend. Like a missing puzzle piece that has finally been found.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=438" rel="alternate"/>
+  </entry>
   <entry>
     <id>437</id>
     <title>Mikka's happenings 📒 #437</title>
