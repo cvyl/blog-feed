@@ -3879,5 +3879,37 @@
     "id": 452,
     "date": "2024-11-17T11:29:50",
     "text": "The college introduction talks were really basic and I hope to do this degree as fast as possible (1 year) to reach university"
+  },
+  {
+    "id": 453,
+    "date": "2024-11-17T16:41:48",
+    "text": "Me and my girlfriend had such a great time together this weekend. Really happy with how it went"
+  },
+  {
+    "id": 454,
+    "date": "2024-11-17T16:42:20",
+    "text": "I hope to go to university with a campus closer to her (TUE)."
+  },
+  {
+    "id": 455,
+    "date": "2024-11-17T16:42:20",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2018-07-05T07:33:04",
+        "width": 512,
+        "height": 443,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😍",
+        "set_name": "Menhera_chan_zh_Hant_1",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/455.webp",
+        "size": 32060,
+        "thumb": "media/455.webp_thumb.jpg"
+      }
+    ]
   }
 ]
