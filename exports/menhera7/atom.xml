@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-11-24T16:03:33.474377+00:00</updated>
+  <updated>2024-11-24T18:03:40.594702+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>466</id>
+    <title>Mikka's happenings 📒 #466</title>
+    <updated>2024-11-24T19:01:51+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=466" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>465</id>
+    <title>Mikka's happenings 📒 #465</title>
+    <updated>2024-11-24T19:01:46+00:00</updated>
+    <content>&lt;p&gt;I already have trouble going to social events and suddenly I am asked to throw out my concept of a date..&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=465" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>464</id>
+    <title>Mikka's happenings 📒 #464</title>
+    <updated>2024-11-24T19:00:57+00:00</updated>
+    <content>&lt;p&gt;And I don’t know if I’m overthinking it. But it made me quite uncomfortable.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=464" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>463</id>
+    <title>Mikka's happenings 📒 #463</title>
+    <updated>2024-11-24T18:59:36+00:00</updated>
+    <content>&lt;p&gt;Today I figured out what a double date is. Seems like a scary experience. Especially when you don’t know the other people.
+Aren’t dates meant to be personal? If there’s more than two, wouldn’t it be just a meet-up sort of thing?&lt;/p&gt;
+&lt;p&gt;Now I am just really anxious about that topic.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=463" rel="alternate"/>
+  </entry>
   <entry>
     <id>462</id>
     <title>Mikka's happenings 📒 #462</title>
