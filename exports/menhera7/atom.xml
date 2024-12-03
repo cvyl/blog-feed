@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-03T20:03:54.203066+00:00</updated>
+  <updated>2024-12-03T22:03:50.771543+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>477</id>
+    <title>Mikka's happenings 📒 #477</title>
+    <updated>2024-12-03T22:18:21+00:00</updated>
+    <content>&lt;p&gt;There has been a medication I've been taking which causes me a lot of side effects in the evening. I've considered talking to my psychiatrist and hope to get off them. I've been using it for a year but so much has changed that I am unsure if not taking them will improve my life.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=477" rel="alternate"/>
+  </entry>
   <entry>
     <id>476</id>
     <title>Mikka's happenings 📒 #476</title>
