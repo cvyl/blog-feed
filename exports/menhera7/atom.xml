@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-05T14:03:38.997680+00:00</updated>
+  <updated>2024-12-05T16:04:02.772462+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>478</id>
+    <title>Mikka's happenings 📒 #478</title>
+    <updated>2024-12-05T16:28:45+00:00</updated>
+    <content>&lt;p&gt;Work makes me really tired. I can’t keep up with this.&lt;/p&gt;
+&lt;p&gt;I’ve signed up for a math exam next week. I’ll be taking the test 3 years early.
+I did the previous year’s exam as a test to see how much I know already. And I scored 68/100 without knowing anything about what I should know for the exam.&lt;/p&gt;
+&lt;p&gt;I am willing to take the risk as I’ve made notes on what I should study, and honestly, it’s not difficult at all.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=478" rel="alternate"/>
+  </entry>
   <entry>
     <id>477</id>
     <title>Mikka's happenings 📒 #477</title>
