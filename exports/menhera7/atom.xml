@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-06T10:03:20.807117+00:00</updated>
+  <updated>2024-12-06T12:04:43.461577+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>481</id>
+    <title>Mikka's happenings 📒 #481</title>
+    <updated>2024-12-06T11:33:58+00:00</updated>
+    <content>&lt;p&gt;Really brightened up this Friday for me.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=481" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>480</id>
+    <title>Mikka's happenings 📒 #480</title>
+    <updated>2024-12-06T11:33:46+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=480" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>479</id>
+    <title>Mikka's happenings 📒 #479</title>
+    <updated>2024-12-06T11:33:32+00:00</updated>
+    <content>&lt;p&gt;After two years of waiting the psychologist practice said I can start my therapy next week!!!
+I waited quite a while but finally!!!!!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=479" rel="alternate"/>
+  </entry>
   <entry>
     <id>478</id>
     <title>Mikka's happenings 📒 #478</title>
