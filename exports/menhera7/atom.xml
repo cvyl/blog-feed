@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-09T16:03:57.088983+00:00</updated>
+  <updated>2024-12-09T18:04:13.472826+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>487</id>
+    <title>Mikka's happenings 📒 #487</title>
+    <updated>2024-12-09T18:11:06+00:00</updated>
+    <content>&lt;p&gt;Our 12 year old cat isn’t well. Kidney failure. We have to let him go today&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=487" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>486</id>
+    <title>Mikka's happenings 📒 #486</title>
+    <updated>2024-12-09T17:18:07+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=486" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>485</id>
+    <title>Mikka's happenings 📒 #485</title>
+    <updated>2024-12-09T17:17:58+00:00</updated>
+    <content>&lt;p&gt;I’ve been put back on the queue because my psychologist called in sick. This means I can’t be replanned soon and have to wait somewhere January 2025.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=485" rel="alternate"/>
+  </entry>
   <entry>
     <id>484</id>
     <title>Mikka's happenings 📒 #484</title>
