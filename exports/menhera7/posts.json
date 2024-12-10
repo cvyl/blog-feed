@@ -4246,5 +4246,22 @@
         "height": 660
       }
     ]
+  },
+  {
+    "id": 491,
+    "date": "2024-12-10T19:26:07",
+    "text": "<em>“In the sweat of your face you shall eat bread till you return to the ground, for out of it you were taken; you are dust, and to dust you shall return.” \n</em><b>GENESIS 3:19</b>",
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2024-12-10T19:26:07",
+        "media_type": "photo",
+        "original_name": "photo_2024-12-10_19-26-07.jpg",
+        "url": "media/491.jpg",
+        "size": 115189,
+        "thumb": "media/491.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
