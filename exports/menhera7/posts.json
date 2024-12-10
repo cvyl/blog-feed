@@ -4212,5 +4212,39 @@
     "id": 487,
     "date": "2024-12-09T18:11:06",
     "text": "Our 12 year old cat isn’t well. Kidney failure. We have to let him go today"
+  },
+  {
+    "id": 488,
+    "date": "2024-12-10T13:33:37",
+    "text": "I am writing a simple parser for Apple Health export data. I had to allocate 8GBs(!!!) of RAM to the application else it would run out. This is because I don't use an XML stream but a full XML parser for a 300MB XML file."
+  },
+  {
+    "id": 489,
+    "date": "2024-12-10T13:33:38",
+    "media_group_id": 13870672145327124,
+    "images": [
+      {
+        "file_name": "image_2024-12-10_13-33-38.png",
+        "mime_type": "image/png",
+        "date": "2024-12-10T13:33:38",
+        "original_name": "image_2024-12-10_13-33-38.png",
+        "url": "media/489.png",
+        "size": 197487,
+        "thumb": "media/489.png_thumb.jpg",
+        "width": 1474,
+        "height": 982
+      },
+      {
+        "file_name": "image_2024-12-10_13-33-38.png",
+        "mime_type": "image/png",
+        "date": "2024-12-10T13:33:38",
+        "original_name": "image_2024-12-10_13-33-38.png",
+        "url": "media/490.png",
+        "size": 243716,
+        "thumb": "media/490.png_thumb.jpg",
+        "width": 2140,
+        "height": 660
+      }
+    ]
   }
 ]

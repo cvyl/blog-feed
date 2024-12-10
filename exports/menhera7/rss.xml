@@ -12,7 +12,18 @@
       <link>https://cvyl.me/life</link>
     </image>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Dec 2024 12:05:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 14:04:09 +0000</lastBuildDate>
+    <item>
+      <title>Mikka's happenings 📒 #489</title>
+      <link>https://cvyl.me/life?post=489</link>
+      <guid isPermaLink="false">489</guid>
+    </item>
+    <item>
+      <title>Mikka's happenings 📒 #488</title>
+      <link>https://cvyl.me/life?post=488</link>
+      <description>&lt;p&gt;I am writing a simple parser for Apple Health export data. I had to allocate 8GBs(!!!) of RAM to the application else it would run out. This is because I don't use an XML stream but a full XML parser for a 300MB XML file.&lt;/p&gt;</description>
+      <guid isPermaLink="false">488</guid>
+    </item>
     <item>
       <title>Mikka's happenings 📒 #487</title>
       <link>https://cvyl.me/life?post=487</link>
