@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-11T12:04:37.165539+00:00</updated>
+  <updated>2024-12-11T14:03:54.203219+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>494</id>
+    <title>Mikka's happenings 📒 #494</title>
+    <updated>2024-12-11T14:40:50+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=494" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>493</id>
+    <title>Mikka's happenings 📒 #493</title>
+    <updated>2024-12-11T14:40:45+00:00</updated>
+    <content>&lt;p&gt;Signed up for a pretty expensive FemFit subscription which is around € 230,- / month. I will most likely try it for 3 months or so and then see if I can afford it.&lt;/p&gt;
+&lt;p&gt;I earn enough to pay for it, it’s just a big financial hit. Luckily they are very friendly and flexible when it comes to their subscription so I am not stuck with a 12 month contract.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=493" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>492</id>
+    <title>Mikka's happenings 📒 #492</title>
+    <updated>2024-12-11T14:29:03+00:00</updated>
+    <content>&lt;p&gt;Food has arrived&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=492" rel="alternate"/>
+  </entry>
   <entry>
     <id>491</id>
     <title>Mikka's happenings 📒 #491</title>
