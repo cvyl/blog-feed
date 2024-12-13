@@ -4327,5 +4327,32 @@
     "id": 498,
     "date": "2024-12-12T10:59:11",
     "text": "Exam went well!!! It was quite easy."
+  },
+  {
+    "id": 499,
+    "date": "2024-12-13T00:40:15",
+    "text": "Im so in love with my girlfriend"
+  },
+  {
+    "id": 500,
+    "date": "2024-12-13T00:40:46",
+    "files": [
+      {
+        "file_name": "sticker.webm",
+        "mime_type": "video/webm",
+        "date": "2022-02-05T10:48:56",
+        "width": 512,
+        "height": 454,
+        "is_animated": false,
+        "is_video": true,
+        "emoji": "❤️",
+        "set_name": "LANI_Kurumi_chan_ENG",
+        "media_type": "sticker",
+        "original_name": "sticker.webm",
+        "url": "media/500.webm",
+        "size": 166658,
+        "thumb": "media/500.webm_thumb.jpg"
+      }
+    ]
   }
 ]
