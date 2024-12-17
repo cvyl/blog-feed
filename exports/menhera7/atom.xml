@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-17T20:04:18.497875+00:00</updated>
+  <updated>2024-12-17T22:04:01.506723+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>512</id>
+    <title>Mikka's happenings 📒 #512</title>
+    <updated>2024-12-17T22:10:09+00:00</updated>
+    <content>&lt;p&gt;Things can change, yes. But I am not insane.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=512" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>511</id>
+    <title>Mikka's happenings 📒 #511</title>
+    <updated>2024-12-17T22:09:44+00:00</updated>
+    <content>&lt;p&gt;Honestly, if I had to be realistic. I think I won’t make it further than 3 years from now.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=511" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>510</id>
+    <title>Mikka's happenings 📒 #510</title>
+    <updated>2024-12-17T21:11:35+00:00</updated>
+    <content>&lt;p&gt;The past week I’ve been drinking my sorrows away.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=510" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>509</id>
+    <title>Mikka's happenings 📒 #509</title>
+    <updated>2024-12-17T21:11:06+00:00</updated>
+    <content>&lt;p&gt;I think another thing people don’t realise about transitioning is having the psychological burden of being infertile.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=509" rel="alternate"/>
+  </entry>
   <entry>
     <id>508</id>
     <title>Mikka's happenings 📒 #508</title>
