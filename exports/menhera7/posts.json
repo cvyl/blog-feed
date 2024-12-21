@@ -4501,5 +4501,19 @@
         "thumb": "media/515.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 516,
+    "date": "2024-12-21T12:59:16",
+    "text": "Just hang in there, my current apprenticeship is a nice workplace, yes, and I have lots of freedom, yes, but I am just not a fan of not being to utilise my full potential. It feels soul crushing to keep doing this and I hope to do actual useful things. I know it sounds derogatory but I really don’t mean it that way."
+  },
+  {
+    "id": 517,
+    "date": "2024-12-21T13:00:05",
+    "text": "I can totally understand why some people would be content with a job like this, and I wouldn’t mind doing it as a<b> side </b>job. But having this be my primary source of income wouldn’t be worth it unless I’m getting paid really well.",
+    "reply": {
+      "id": 516,
+      "text": "Just hang in there, my current apprenticeship is a nice workplace, yes, and I have lots of freedom, yes, but I am just not a fan of not being to utilise my full potential. It feels soul crushing to keep doing this and I hope to do actual useful things. I know it sounds derogatory but I really don’t mean it that way."
+    }
   }
 ]
