@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-22T18:04:17.091909+00:00</updated>
+  <updated>2024-12-22T20:00:30.633047+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>527</id>
+    <title>Mikka's happenings 📒 #527</title>
+    <updated>2024-12-22T20:57:25+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=527" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>526</id>
+    <title>Mikka's happenings 📒 #526</title>
+    <updated>2024-12-22T20:57:18+00:00</updated>
+    <content>&lt;p&gt;Took me five hours(!) to make.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=526" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>525</id>
+    <title>Mikka's happenings 📒 #525</title>
+    <updated>2024-12-22T20:57:05+00:00</updated>
+    <content>&lt;p&gt;One apple pie, two cheesecakes, and one lemon cake.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=525" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>522</id>
+    <title>Mikka's happenings 📒 #522</title>
+    <updated>2024-12-22T20:56:16+00:00</updated>
+    <content>&lt;p&gt;It’s his birthday tomorrow and unfortunately he’s broke and cripple. So I decided to bake four cakes.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=522" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>521</id>
+    <title>Mikka's happenings 📒 #521</title>
+    <updated>2024-12-22T20:55:37+00:00</updated>
+    <content>&lt;p&gt;It sucks because I love my girlfriend a lot. But my father is very thankful of all the work I have done.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=521" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>520</id>
+    <title>Mikka's happenings 📒 #520</title>
+    <updated>2024-12-22T20:54:58+00:00</updated>
+    <content>&lt;p&gt;Had to cut off my weekend with my girlfriend because I forgot I had an appointment with my father to bake cakes.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=520" rel="alternate"/>
+  </entry>
   <entry>
     <id>519</id>
     <title>Mikka's happenings 📒 #519</title>
