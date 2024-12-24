@@ -4631,5 +4631,10 @@
         "thumb": "media/527.webp_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 528,
+    "date": "2024-12-24T14:04:34",
+    "text": "I’ve been setting up a small homelab server to watch media and as a third backup option."
   }
 ]
