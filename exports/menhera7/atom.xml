@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-24T22:04:02.078173+00:00</updated>
+  <updated>2024-12-25T00:09:49.738322+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>532</id>
+    <title>Mikka's happenings 📒 #532</title>
+    <updated>2024-12-24T23:51:46+00:00</updated>
+    <content>&lt;p&gt;It's been a while since I listened to Vocaloid music again. But it brings nostalgia.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=532" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>531</id>
+    <title>Mikka's happenings 📒 #531</title>
+    <updated>2024-12-24T23:51:11+00:00</updated>
+    <content>&lt;p&gt;I generally really like ねこぼーろ. Their music captures my bittersweet feelings on life.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=531" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>530</id>
+    <title>Mikka's happenings 📒 #530</title>
+    <updated>2024-12-24T23:49:24+00:00</updated>
+    <content>&lt;p&gt;&lt;a href="https://www.nicovideo.jp/watch/sm19870840"&gt;https://www.nicovideo.jp/watch/sm19870840&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=530" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>529</id>
+    <title>Mikka's happenings 📒 #529</title>
+    <updated>2024-12-24T23:48:35+00:00</updated>
+    <content>&lt;p&gt;One of the songs I hold deeply to my heart is probably 自傷無色 by ねこぼーろ&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=529" rel="alternate"/>
+  </entry>
   <entry>
     <id>528</id>
     <title>Mikka's happenings 📒 #528</title>
