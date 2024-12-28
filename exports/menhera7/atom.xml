@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-28T16:04:13.240739+00:00</updated>
+  <updated>2024-12-28T18:04:15.026939+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>536</id>
+    <title>Mikka's happenings 📒 #536</title>
+    <updated>2024-12-28T17:21:44+00:00</updated>
+    <content>&lt;p&gt;I think I will cancel my personal training, or at least, pause it.
+Currently it costs more than my health insurance.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=536" rel="alternate"/>
+  </entry>
   <entry>
     <id>535</id>
     <title>Mikka's happenings 📒 #535</title>
