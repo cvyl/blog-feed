@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2024-12-31T14:04:10.186164+00:00</updated>
+  <updated>2024-12-31T16:04:05.546159+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>541</id>
+    <title>Mikka's happenings 📒 #541</title>
+    <updated>2024-12-31T15:49:07+00:00</updated>
+    <content>&lt;p&gt;I realised I might be able to read some German. But my listening skills are on another level of bad haha.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=541" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>540</id>
+    <title>Mikka's happenings 📒 #540</title>
+    <updated>2024-12-31T15:48:41+00:00</updated>
+    <content>&lt;p&gt;I’ve never been more humbled when it comes to my German language understanding than joining Gommunity at 1 AM with voice chat on.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=540" rel="alternate"/>
+  </entry>
   <entry>
     <id>539</id>
     <title>Mikka's happenings 📒 #539</title>
