@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-03T06:04:19.963525+00:00</updated>
+  <updated>2025-01-03T08:04:28.176767+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>543</id>
+    <title>Mikka's happenings 📒 #543</title>
+    <updated>2025-01-03T08:16:43+00:00</updated>
+    <content>&lt;p&gt;Omg I totally forgot to wish everyone a happy new year!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=543" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>542</id>
+    <title>Mikka's happenings 📒 #542</title>
+    <updated>2025-01-03T08:11:04+00:00</updated>
+    <content>&lt;p&gt;I am a sourdough bread fan. It’s so good 😊&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=542" rel="alternate"/>
+  </entry>
   <entry>
     <id>541</id>
     <title>Mikka's happenings 📒 #541</title>
