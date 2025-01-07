@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-07T14:55:28.364041+00:00</updated>
+  <updated>2025-01-07T16:17:14.566031+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>556</id>
+    <title>Mikka's happenings 📒 #556</title>
+    <updated>2025-01-07T16:56:40+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=556" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>555</id>
+    <title>Mikka's happenings 📒 #555</title>
+    <updated>2025-01-07T16:56:29+00:00</updated>
+    <content>&lt;p&gt;But it’s exciting news!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=555" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>554</id>
+    <title>Mikka's happenings 📒 #554</title>
+    <updated>2025-01-07T16:56:12+00:00</updated>
+    <content>&lt;p&gt;I ended up dropping out to go to college instead. So in the end it didn’t even matter.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=554" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>553</id>
+    <title>Mikka's happenings 📒 #553</title>
+    <updated>2025-01-07T16:55:54+00:00</updated>
+    <content>&lt;p&gt;I followed Math A because I had to drop Math B in academia because it would fail me&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=553" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>552</id>
+    <title>Mikka's happenings 📒 #552</title>
+    <updated>2025-01-07T16:55:35+00:00</updated>
+    <content>&lt;p&gt;I hope it works out!!
+Also I need to chat with my mentor about if my current mathematics skill is sufficient for university. There are different kinds of math in Dutch schools, you have Math A; which is more story / scenario based and considered “easier”. And Math B; which has more complex topics and uses more formulas and such and is thus considered more complex.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=552" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>551</id>
+    <title>Mikka's happenings 📒 #551</title>
+    <updated>2025-01-07T16:54:11+00:00</updated>
+    <content>&lt;p&gt;And omg I got an email from my college that says I could already start working on higher education mathematics way before the official school year starts. So it’s basically doing harder schoolwork while in college to skip the entire subject when I’m going to higher education.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=551" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>550</id>
+    <title>Mikka's happenings 📒 #550</title>
+    <updated>2025-01-07T16:53:12+00:00</updated>
+    <content>&lt;p&gt;It’s fun but also a lot of thinking work&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=550" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>549</id>
+    <title>Mikka's happenings 📒 #549</title>
+    <updated>2025-01-07T16:53:02+00:00</updated>
+    <content>&lt;p&gt;Working on big things at my apprenticeship.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=549" rel="alternate"/>
+  </entry>
   <entry>
     <id>548</id>
     <title>Mikka's happenings 📒 #548</title>
