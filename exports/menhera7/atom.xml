@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-08T20:04:21.980789+00:00</updated>
+  <updated>2025-01-08T22:04:17.819413+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>561</id>
+    <title>Mikka's happenings 📒 #561</title>
+    <updated>2025-01-08T21:47:53+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=561" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>560</id>
+    <title>Mikka's happenings 📒 #560</title>
+    <updated>2025-01-08T21:47:49+00:00</updated>
+    <content>&lt;p&gt;Really happy with that :3&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=560" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>559</id>
+    <title>Mikka's happenings 📒 #559</title>
+    <updated>2025-01-08T21:47:39+00:00</updated>
+    <content>&lt;p&gt;And CloudFlare emailed me that they'll sponsor me for $5.000,- USD. I was one of the earliest people to fill in their start-up sponsor form.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=559" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>558</id>
+    <title>Mikka's happenings 📒 #558</title>
+    <updated>2025-01-08T21:47:01+00:00</updated>
+    <content>&lt;p&gt;Exciting..&lt;/p&gt;
+&lt;p&gt;Also my warranty claim got accepted by Lenovo and they'll send me a technician who will replace my fans.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=558" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>557</id>
+    <title>Mikka's happenings 📒 #557</title>
+    <updated>2025-01-08T21:46:40+00:00</updated>
+    <content>&lt;p&gt;I planned a new consult meeting with my gender clinic for next Tuesday!!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=557" rel="alternate"/>
+  </entry>
   <entry>
     <id>556</id>
     <title>Mikka's happenings 📒 #556</title>
