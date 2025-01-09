@@ -4949,5 +4949,32 @@
         "thumb": "media/568.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 569,
+    "date": "2025-01-09T19:51:27",
+    "text": "How does one not feel inferior, when everyone around oneself is clearly superior."
+  },
+  {
+    "id": 570,
+    "date": "2025-01-09T19:51:39",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2018-07-05T07:22:25",
+        "width": 512,
+        "height": 443,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😶",
+        "set_name": "Menhera_chan_zh_Hant_1",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/570.webp",
+        "size": 24658,
+        "thumb": "media/570.webp_thumb.jpg"
+      }
+    ]
   }
 ]
