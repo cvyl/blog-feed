@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-12T14:04:02.849794+00:00</updated>
+  <updated>2025-01-12T16:04:12.464503+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>576</id>
+    <title>Mikka's happenings 📒 #576</title>
+    <updated>2025-01-12T16:00:21+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=576" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>575</id>
+    <title>Mikka's happenings 📒 #575</title>
+    <updated>2025-01-12T16:00:15+00:00</updated>
+    <content>&lt;p&gt;If it all goes successfully, I will write a blog post about it.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=575" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>574</id>
+    <title>Mikka's happenings 📒 #574</title>
+    <updated>2025-01-12T15:59:54+00:00</updated>
+    <content>&lt;p&gt;Possibly sold a domain for 1.100,- USD!!!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=574" rel="alternate"/>
+  </entry>
   <entry>
     <id>573</id>
     <title>Mikka's happenings 📒 #573</title>
