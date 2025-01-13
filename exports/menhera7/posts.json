@@ -5062,5 +5062,42 @@
     "id": 579,
     "date": "2025-01-13T13:02:43",
     "text": "Sick today but Lenovo’s repair center sent me a new heat sink and a new fan, excited about the repair this coming Wednesday."
+  },
+  {
+    "id": 580,
+    "date": "2025-01-13T16:45:30",
+    "text": "Sigh.. my family is so dysfunctional"
+  },
+  {
+    "id": 581,
+    "date": "2025-01-13T16:45:38",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2018-07-05T06:42:29",
+        "width": 512,
+        "height": 443,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😑",
+        "set_name": "Menhera_chan_zh_Hant_1",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/581.webp",
+        "size": 31746,
+        "thumb": "media/581.webp_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "date": "2025-01-13T16:46:07",
+    "text": "Using my sickness to give myself a spa day (take a bath and stuff)"
+  },
+  {
+    "id": 583,
+    "date": "2025-01-13T16:46:30",
+    "text": "I was too exhausted last week and didn’t shower for almost an entire week."
   }
 ]

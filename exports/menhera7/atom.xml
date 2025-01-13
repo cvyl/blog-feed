@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-13T14:04:24.342553+00:00</updated>
+  <updated>2025-01-13T16:04:38.988264+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>583</id>
+    <title>Mikka's happenings 📒 #583</title>
+    <updated>2025-01-13T16:46:30+00:00</updated>
+    <content>&lt;p&gt;I was too exhausted last week and didn’t shower for almost an entire week.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=583" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>582</id>
+    <title>Mikka's happenings 📒 #582</title>
+    <updated>2025-01-13T16:46:07+00:00</updated>
+    <content>&lt;p&gt;Using my sickness to give myself a spa day (take a bath and stuff)&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=582" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>581</id>
+    <title>Mikka's happenings 📒 #581</title>
+    <updated>2025-01-13T16:45:38+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=581" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>580</id>
+    <title>Mikka's happenings 📒 #580</title>
+    <updated>2025-01-13T16:45:30+00:00</updated>
+    <content>&lt;p&gt;Sigh.. my family is so dysfunctional&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=580" rel="alternate"/>
+  </entry>
   <entry>
     <id>579</id>
     <title>Mikka's happenings 📒 #579</title>
