@@ -5124,5 +5124,32 @@
     "id": 588,
     "date": "2025-01-15T12:54:01",
     "text": "We had a nice chat and the problem is solved! New fans and a new heat sink."
+  },
+  {
+    "id": 589,
+    "date": "2025-01-15T15:04:34",
+    "text": "Inferiority complex combined with BDD and GD is really bad idea that somehow is my reality."
+  },
+  {
+    "id": 590,
+    "date": "2025-01-15T15:04:38",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2018-07-05T06:33:49",
+        "width": 512,
+        "height": 443,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "🙃",
+        "set_name": "Menhera_chan_zh_Hant_1",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/590.webp",
+        "size": 38820,
+        "thumb": "media/590.webp_thumb.jpg"
+      }
+    ]
   }
 ]

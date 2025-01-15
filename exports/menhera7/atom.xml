@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-15T14:04:04.697796+00:00</updated>
+  <updated>2025-01-15T16:04:31.092635+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>590</id>
+    <title>Mikka's happenings 📒 #590</title>
+    <updated>2025-01-15T15:04:38+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=590" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>589</id>
+    <title>Mikka's happenings 📒 #589</title>
+    <updated>2025-01-15T15:04:34+00:00</updated>
+    <content>&lt;p&gt;Inferiority complex combined with BDD and GD is really bad idea that somehow is my reality.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=589" rel="alternate"/>
+  </entry>
   <entry>
     <id>588</id>
     <title>Mikka's happenings 📒 #588</title>
