@@ -25,7 +25,7 @@ jobs:
         node-version: 20
         cache: 'yarn'
         
-    - uses: awalsh128/cache-apt-pkgs-action@latest
+    - uses: awalsh128/cache-apt-pkgs-action@v1.4.3
       with:
         packages: ffmpeg chromium-browser
         version: 1.0

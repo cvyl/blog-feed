@@ -1,0 +1,13 @@
+diff --git a/.github/workflows/tgc.yml b/.github/workflows/tgc.yml
+index fc877168..6e1be0d5 100644
+--- a/.github/workflows/tgc.yml
++++ b/.github/workflows/tgc.yml
+@@ -25,7 +25,7 @@ jobs:
+         node-version: 20
+         cache: 'yarn'
+         
+-    - uses: awalsh128/cache-apt-pkgs-action@latest
++    - uses: awalsh128/cache-apt-pkgs-action@v1.4.3
+       with:
+         packages: ffmpeg chromium-browser
+         version: 1.0
