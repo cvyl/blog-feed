@@ -5215,5 +5215,22 @@
         "thumb": "media/597.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 598,
+    "date": "2025-01-18T15:10:52",
+    "text": "If all goes well I will receive around $700,- USD from this sale.",
+    "images": [
+      {
+        "width": 1100,
+        "height": 695,
+        "date": "2025-01-18T15:10:52",
+        "media_type": "photo",
+        "original_name": "photo_2025-01-18_15-10-52.jpg",
+        "url": "media/598.jpg",
+        "size": 22991,
+        "thumb": "media/598.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
