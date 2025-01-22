@@ -5286,5 +5286,21 @@
     "id": 605,
     "date": "2025-01-22T16:28:36",
     "text": "Due to my medications side effects I’ve gained 20KGs."
+  },
+  {
+    "id": 606,
+    "date": "2025-01-22T17:06:17",
+    "files": [
+      {
+        "duration": 44,
+        "waveform": "q6HB9VnbXGCHuc3VMiYXFV1XZJMwh71paEAbqeo8pjYabxvtqKkG/ISGfqJXJZsRKcZmB6u30aQrk9V8XzGQ",
+        "mime_type": "audio/ogg",
+        "date": "2025-01-22T17:06:17",
+        "media_type": "voice_message",
+        "original_name": "voice_2025-01-22_17-06-17.ogg",
+        "url": "media/606.ogg",
+        "size": 181807
+      }
+    ]
   }
 ]
