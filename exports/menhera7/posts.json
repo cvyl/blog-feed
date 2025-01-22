@@ -5267,5 +5267,19 @@
     "id": 602,
     "date": "2025-01-21T10:40:13",
     "text": "Due to some mental burden and other things I lost my 130 day Duolingo streak…"
+  },
+  {
+    "id": 603,
+    "date": "2025-01-22T10:20:55",
+    "text": "Been looking into setting up a small stable diffusion setup on my laptop. \n\nThe big difference when it comes to AI art is whether it’s made for a financial gain or for personal use."
+  },
+  {
+    "id": 604,
+    "date": "2025-01-22T10:21:32",
+    "text": "I myself am absolutely fine with AI artwork, it’s an amazing invention. But I think it can pose a financial risk when used professionally or commercially.",
+    "reply": {
+      "id": 603,
+      "text": "Been looking into setting up a small stable diffusion setup on my laptop. \n\nThe big difference when it comes to AI art is whether it’s made for a financial gain or for personal use."
+    }
   }
 ]

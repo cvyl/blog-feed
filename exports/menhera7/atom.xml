@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-22T08:03:57.595116+00:00</updated>
+  <updated>2025-01-22T10:03:48.235696+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>604</id>
+    <title>Mikka's happenings 📒 #604</title>
+    <updated>2025-01-22T10:21:32+00:00</updated>
+    <content>&lt;p&gt;I myself am absolutely fine with AI artwork, it’s an amazing invention. But I think it can pose a financial risk when used professionally or commercially.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=604" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>603</id>
+    <title>Mikka's happenings 📒 #603</title>
+    <updated>2025-01-22T10:20:55+00:00</updated>
+    <content>&lt;p&gt;Been looking into setting up a small stable diffusion setup on my laptop. &lt;/p&gt;
+&lt;p&gt;The big difference when it comes to AI art is whether it’s made for a financial gain or for personal use.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=603" rel="alternate"/>
+  </entry>
   <entry>
     <id>602</id>
     <title>Mikka's happenings 📒 #602</title>
