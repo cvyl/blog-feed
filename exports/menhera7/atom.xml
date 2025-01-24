@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-24T10:04:17.872674+00:00</updated>
+  <updated>2025-01-24T12:05:08.765290+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>614</id>
+    <title>Mikka's happenings 📒 #614</title>
+    <updated>2025-01-24T12:06:36+00:00</updated>
+    <content>&lt;p&gt;Currently lowered my dosage of medications and im having a lot of withdrawals&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=614" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>613</id>
+    <title>Mikka's happenings 📒 #613</title>
+    <updated>2025-01-24T12:06:19+00:00</updated>
+    <content>&lt;p&gt;I finally beat my depression after a battle of 12 years!&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=613" rel="alternate"/>
+  </entry>
   <entry>
     <id>612</id>
     <title>Mikka's happenings 📒 #612</title>
