@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-23T22:04:09.295324+00:00</updated>
+  <updated>2025-01-24T00:09:25.583284+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>611</id>
+    <title>Mikka's happenings 📒 #611</title>
+    <updated>2025-01-23T23:24:44+00:00</updated>
+    <content>&lt;p&gt;squidgame 2 makes me feel a little more comfortable being who i am. its rare to see such things in movies. altho theyre played by a cisgender man, its still representation nontheless.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=611" rel="alternate"/>
+  </entry>
   <entry>
     <id>610</id>
     <title>Mikka's happenings 📒 #610</title>
