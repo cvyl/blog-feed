@@ -5373,5 +5373,32 @@
     "id": 614,
     "date": "2025-01-24T12:06:36",
     "text": "Currently lowered my dosage of medications and im having a lot of withdrawals"
+  },
+  {
+    "id": 615,
+    "date": "2025-01-25T16:26:52",
+    "text": "Withdrawals are lessening."
+  },
+  {
+    "id": 616,
+    "date": "2025-01-25T16:26:57",
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2018-07-05T06:51:18",
+        "width": 512,
+        "height": 443,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😠",
+        "set_name": "Menhera_chan_zh_Hant_1",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/616.webp",
+        "size": 69194,
+        "thumb": "media/616.webp_thumb.jpg"
+      }
+    ]
   }
 ]
