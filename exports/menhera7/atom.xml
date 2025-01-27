@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-27T12:05:01.125009+00:00</updated>
+  <updated>2025-01-27T14:04:32.293375+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>624</id>
+    <title>Mikka's happenings 📒 #624</title>
+    <updated>2025-01-27T14:12:26+00:00</updated>
+    <content/>
+    <link href="https://cvyl.me/life?post=624" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>623</id>
+    <title>Mikka's happenings 📒 #623</title>
+    <updated>2025-01-27T14:12:11+00:00</updated>
+    <content>&lt;p&gt;Laughed a lot about random things about my life and because I find funny ways to explain horrible events with comedy :3&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=623" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>622</id>
+    <title>Mikka's happenings 📒 #622</title>
+    <updated>2025-01-27T14:11:47+00:00</updated>
+    <content>&lt;p&gt;We chatted a lot and the consult went well!!! Made a new appointment for next week&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=622" rel="alternate"/>
+  </entry>
   <entry>
     <id>621</id>
     <title>Mikka's happenings 📒 #621</title>
