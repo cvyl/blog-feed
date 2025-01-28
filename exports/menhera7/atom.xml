@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://cvyl.me/life</id>
   <title>Mikka's happenings 📒</title>
-  <updated>2025-01-28T00:09:21.692385+00:00</updated>
+  <updated>2025-01-28T02:23:14.318703+00:00</updated>
   <link href="https://cvyl.me/life" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://cvyl.me/gallery/mka.jpg</logo>
   <subtitle>Random thoughts and happenings in my life.</subtitle>
+  <entry>
+    <id>627</id>
+    <title>Mikka's happenings 📒 #627</title>
+    <updated>2025-01-28T02:35:08+00:00</updated>
+    <content>&lt;p&gt;I hope, before my death, to disappear from everyone, and achieve true happiness.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=627" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>626</id>
+    <title>Mikka's happenings 📒 #626</title>
+    <updated>2025-01-28T02:32:03+00:00</updated>
+    <content>&lt;p&gt;Mikka is such a stupid name.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=626" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>625</id>
+    <title>Mikka's happenings 📒 #625</title>
+    <updated>2025-01-28T02:31:48+00:00</updated>
+    <content>&lt;p&gt;I hope to go to Thailand one day, perhaps to start over, to get some things done, to be happier.&lt;/p&gt;</content>
+    <link href="https://cvyl.me/life?post=625" rel="alternate"/>
+  </entry>
   <entry>
     <id>624</id>
     <title>Mikka's happenings 📒 #624</title>
